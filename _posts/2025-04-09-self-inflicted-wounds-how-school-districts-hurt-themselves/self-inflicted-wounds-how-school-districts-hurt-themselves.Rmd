@@ -1,0 +1,58 @@
+---
+title: "Self-Inflicted Wounds: How School Districts Hurt Themselves"
+description: "How school districts create unnecessary burdens for themselves"
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+date: 2025-04-09
+preview: scuc_team_of_8_library_2024_annot.jpg
+output: 
+  distill::distill_article
+    self_contained: false
+---
+
+
+Public education is beginning to stagger under the weight of good intentions - from all sides. Legislatures pile on mandates and so-called accountability requirements — all while funding dwindles. Politicians virtue-signal all their great improvements to education in the state with one hand, while guaranteeing failure with the other.  I guess it's good work if you can get it.
+
+## The Road to Educational Hell is Paved with Good Intentions
+
+Why do legislatures everywhere inflict enormous, destructive pressures on school districts? As usual, the culprit is **good intentions**. Unfortunately, good intentions don't matter much when their practical effects destroy districts and their students.
+
+Every school board knows that many of these outside pressures are:
+
+- **Unnecessary** (you cannot get desired results by edict - how's that working for you so far?)
+- **Destructive** (e.g., pitting student groups against each other)
+- **Imposed**     (at this point, 'local control' is a sad joke)
+- **Unfunded**    (this immoral practice must be resisted with vigor)
+
+Even if you can clearly identify these problems for your district, good luck persuading a legislator that their "good intentions" are toxic!  It takes courage and character to admit you had it wrong all along.
+
+## Looking in the Mirror
+
+But, here's an interesting truth: boards and administrators can also increase the burdens on their own districts. These are **self-inflicted wounds**—and can be avoided.
+
+### The trap of so-called 'best practices' - Don't Fall for It!
+
+Boards and Districts are often seduced by so-called "best practices" pedaled within the education industry.  They frequently add unnecessary burden on staff and volunteers.  They can even pit Trustees against each other in subtle (and not so subtle) ways.  It seems easier to copy others - no need to invent the wheel, right?  But most 'best practices' carry very questionable claims to benefits such as improving student performance.  What is most surprising is not that these claims are virtually unproven, but that no convincing evidence is provided, nor asked for.
+
+Reserve best practices for purely clerical or compliance mechanics.  Avoid them for substantive policies.  There have been uncounted successful organizations long before 'best practices' became a 'thing.'
+
+
+### The trap of so-called 'evidenced-based' practices - Don't Fall for It!
+
+School boards are extremely vulnerable to the 'reassurance' that policies or procedures are 'evidenced based', giving the sales pitch a scientific gloss.  I'm not sure why this phrase is so effective in reassuring the education community.  Whose purpose does it serve; the buyers or the sellers?
+
+Apparently, there are very few folks in the education space with either the time, inclination, training or experience to evaluate such claims.  I see no challenges to such obviously manipulative phrases except in the technical journals.  When is the last time you had board training that taught evaluation techniques of such claims?  I have now read numerous education research articles, and even several PhD thesis.  I see very little scholarship in them because the social sciences continue to struggle with the near impossibility of establishing cause-and-effect with human populations.  Disappointingly, many claim otherwise.
+
+All who consider adopting such nostrums should first consider what the phrase even means, and why it was invented.  Keep in mind that there was evidence that the earth was flat, that the earth was the center of the solar system, that disease was spread by 'bad air'.  As it turns out, those evidence-based theories turned out to be completely wrong.  Most claims of 'evidence based' practices strongly imply (and some boldly state) that if you follow their recommendations you will get the benefits promised.  At its best evidence is strong and rigorous.  At its worst it is weak and anecdotal.  Every racist, eugenicist, Nazi and bigot claims they have 'evidence' to support their prejudice, but it is hardly worth the name evidence.  
+
+These claims may not stand up to scientific scrutiny, but they certainly can make careers and bring consulting work to those who make such claims. 
+
+
+## Breaking the Cycle
+
+Avoid copying others; it is dangerous and wasteful.  There's little evidence it will work well in your district.  Instead, find out for yourself what works in your district; with YOUR people, parents, students, community, buildings and equipment.  Districts will be much better off when they learn that EVERY organization is 'one-of-a-kind'.  What you do with it is more in your control than you think.
+
+
+What self-inflicted wounds do you see in your district? Feel free to comment below.
+

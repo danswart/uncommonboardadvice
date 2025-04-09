@@ -12,12 +12,6 @@ navbar:
       href: index.html
     - text: "Blog"
       href: blog.html
-    - text: "Imagine If You Will..."
-      href: imagine.html
-    - text: "Opinion"
-      href: opinion.html
-    - text: "Resources"
-      href: resources.html
     - text: "About"
       href: about.html
 output:

@@ -1,5 +1,5 @@
 ---
-title: "***'When you want to help people you tell them the truth. When you want to help yourself, you tell them what they want to hear.' ~  Thomas Sowell***"
+title: "<span style='color: #228B22;'>***'When you want to help people you tell them the truth. When you want to help yourself, you tell them what they want to hear.***' </span> ~  Thomas Sowell"
 image: "img/megaphone_1219x1280.png"
 site: distill::distill_website
 links:
@@ -10,6 +10,7 @@ links:
 output:
   postcards::trestles
 ---
+
 
 ```{r, echo=FALSE}
 
@@ -29,19 +30,33 @@ flipdownr::flipdown(
 
 <br>
 
-Why do legislatures everywhere inflict enormous, destructive pressures on school districts?    As usual, the culprit is  ***good intentions***.  Unfortunately, good intentions do not matter much when the practical effects destroy districts and their students.
+## Education at the Crossroads:  Straight Talk for Very Troubled Times
 
-I intend to say and do something about that.  Otherwise, public schools may be doomed.
+It's hard to admit, but the current system of delivering K-12 education is in serious trouble. Public education today is on the verge of a slow collapse.  Sincere, honest folks doing their best, digging deeper the hole they are in.
 
-Every school board knows that many of these outside pressures are ***unnecessary***.    Some are ***destructive***.    All are ***imposed*** upon them.   Far too many are ***unfunded.***   
+Many of the problems come from attempts at centralized control by the state.  Continued unfunded mandates will certainly bring our public school systems crashing down. Yet, I hear no one advocating for ways to permanently end unfunded mandates (it is possible, you know).
 
-Even if you can you clearly identify those that are unnecessary, destructive, or unfunced for your district good luck with pursuading a legislator that their good intentions are toxic!  
+A deeper problem is that education is a 'mature industry' - meaning it is very, very set in its ways.  Think of your last board training.  The main message was probably 'do what the state tells you' and 'stay in your lane.'
 
-Boards can also increase the burdens on their own districts.  These are ***self-inflicted*** wounds.  Adopting so-called 'best practices' frequently adds unnecessary burden on the district and volunteers.
+In a mature industry everyone does everything the same old ways.  It's even difficult to conceive of new perspectives.  The system itself never changes.  What educators today call 'innovation' is no more than rearranging the deck chairs on the Titantic -- **when a course change is the only thing that will save the passengers**.
 
-This blog is dedicated to minimizing ***"self-inflicted"*** wounds.  The blog posts, essays and articles will (hopefully) provoke learning and debate.  Please comment on them.
+It is also very hard for people to hear new ideas.  Imagination and leadership is required but is seldom rewarded in a mature industry.  Doing what everyone else does is easier.
 
-Here you can talk about all of it, and what we can do about it
+Think about it: When was the last time you saw something provably improve learning?  Meanwhile, state government keeps adding rules while cutting funds, creating a perfect storm.
+
+Here's the thing - when an industry gets stuck like this, solutions don't come from inside the system (sorry, TASB).  They come from people with a view from ***OUTSIDE*** the prevailing system.  From people who think differently because they can see the system clearly.  Who aren't trapped inside the system.
+
+That's why I started this blog. It's an honest view from the outside.
+
+Here you can share ideas that might seem outlandish to education insiders and challenge the status quo with honest perspectives.
+
+Discuss what's really needed to save our public schools.
+
+Generally, the blogs are short (3 - 5 minutes to read) ***but you won't be hearing these ideas anywhere else.***  They are not new, but they are new to most members of local school boards.
+
+If you're tired of watching your education system slowly decline and ready for some outside-the-box thinking, you've found your home.  The discussion here might make you uncomfortable at times - good.  Local school boards must do some important things differently, or watch their beautiful district, that so many have devoted their lives to, disappear.
+
+Here you can talk about all of it, and what we can do about it.
 
 (If you are a flamer, find another blog - you won't last long here.)
 
@@ -59,14 +74,7 @@ Here you can talk about all of it, and what we can do about it
 \vspace{0.5in}
 
 
-
-
 Now, Let's have some fun!
-
-
-
-
-<br>
 
 <br>
 
