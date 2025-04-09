@@ -1,0 +1,89 @@
+---
+title: "***'When you want to help people you tell them the truth. When you want to help yourself, you tell them what they want to hear.' ~  Thomas Sowell***"
+image: "img/megaphone_1219x1280.png"
+site: distill::distill_website
+links:
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/danswart/dansrooftop.git target = "_blank"'
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:danswartcpa@gmail.com"
+output:
+  postcards::trestles
+---
+
+```{r, echo=FALSE}
+
+flipdownr::flipdown(
+  downto = "2025-06-02 23:59:59",
+  id = "timer1",
+  theme = "youkous",
+  headings = c("Days", "Hours", "Minutes", "Seconds")
+)
+
+```
+ 
+<br>
+
+## *Time Until TX Legislature Puts (at least) One More Nail in the Coffin of Public Schools (Sine die-last day of session)*
+
+
+<br>
+
+Why do legislatures everywhere inflict enormous, destructive pressures on school districts?    As usual, the culprit is  ***good intentions***.  Unfortunately, good intentions do not matter much when the practical effects destroy districts and their students.
+
+I intend to say and do something about that.  Otherwise, public schools may be doomed.
+
+Every school board knows that many of these outside pressures are ***unnecessary***.    Some are ***destructive***.    All are ***imposed*** upon them.   Far too many are ***unfunded.***   
+
+Even if you can you clearly identify those that are unnecessary, destructive, or unfunced for your district good luck with pursuading a legislator that their good intentions are toxic!  
+
+Boards can also increase the burdens on their own districts.  These are ***self-inflicted*** wounds.  Adopting so-called 'best practices' frequently adds unnecessary burden on the district and volunteers.
+
+This blog is dedicated to minimizing ***"self-inflicted"*** wounds.  The blog posts, essays and articles will (hopefully) provoke learning and debate.  Please comment on them.
+
+Here you can talk about all of it, and what we can do about it
+
+(If you are a flamer, find another blog - you won't last long here.)
+
+
+<div style="text-align: center">
+  ![](img/shouting_and_listening_woman.jpg){style="width:50%; height:auto; fontweight="}
+</div>
+
+<div style="text-align: center; font-size: 26;">
+  Why are we here?
+  <br>
+  To LEARN and to have FUN!
+</div>
+
+\vspace{0.5in}
+
+
+
+
+Now, Let's have some fun!
+
+
+
+
+<br>
+
+<br>
+
+![SCUC-ISD Team of 8 (2024)](img/scuc_team_of_8_library_2024_annot.jpg){width=80%}
+
+
+\vspace{0.5in}
+<br>
+
+<div style="background-color: aliceblue; padding: 10px; border-left: 5px solid darkgreen;">
+
+***Disclaimer:***
+
+***This blog is not an official publication of the Schertz-Cibolo-Universal City ISD.  The contents are intended for informational and educational purposes only and does not represent the official position or policies of any school board or school district.  The views and opinions expressed do not reflect the official stance of any educational institution or governing body.  It is for those deeply concerned about the legislative 'machinery' that has become K-12 education in Texas, and the USA in general.   Any data presented is either synthetic to illustrate a point, or is public information found on the Texas Education Association website.  No effort has been made to ensure the accuracy of the information presented by those posting comments and the author assumes no responsibility for any errors or omissions, nor for any consequences arising from the use of this information.  Readers are encouraged to verify any information they may rely on.***
+
+</div>
+
+\vspace{0.5in}
+
+

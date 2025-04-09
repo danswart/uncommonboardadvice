@@ -1,0 +1,37 @@
+name: "uncommonboardadvice"
+title: "Uncommon Board Advice"
+description: |
+  Uncommon Board Advice
+base_url: https://uncommonboardadvice.netlify.app/
+output_dir: "_site"
+theme: pileggi-theme.css
+# theme: rgirls-theme.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Imagine If You Will..."
+      href: imagine.html
+    - text: "Opinion"
+      href: opinion.html
+    - text: "Resources"
+      href: resources.html
+    - text: "About"
+      href: about.html
+output:
+  distill::distill_article:
+   includes:
+    in_header: giscus.html
+collections:
+  posts:
+  categories: true
+  filter:
+    - category: "Blog"
+  articles:
+    output: distill::distill_article
+    categories: true
+    filter:
+      - category: "Simplify Purpose"
+

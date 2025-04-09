@@ -1,0 +1,48 @@
+---
+title: "About this blog"
+description: |
+  "Idealism is the belief that everything can be perfect; pragmatism is the belief that we can make things better in the world we actually live in."
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Certainly far more than the so-called 'Good Governance' snake oil.  Words shape our attitudes and our actions.  Simple word changes can inform our guiding principles and improve our actions.  With a few simple word changes districts would immediately benefit from higher quality, lower costs and less fruitless effort.  The results would include much happier people; trustees, executive leadership, staff, teachers, parents, partners and students.  Currently, the 'wordsmiths' now lump those flesh-and-blood human beings into the sterile corporate jargon of 'stakeholders'.  If you're serious about making things better for your school district dig in.  If you're happy with 'more of the same' you can find plenty of that elsewhere.
+
+
+> "...management in any form is prediction."
+> - Deming, W. Edwards. The New Economics for Industry, Government, Education (The MIT Press) (Function). Kindle Edition.
+
+
+::: {.callout}
+**Warning:** This is a callout for a warning.
+:::
+
+::: {.callout-note}
+**Note:** This is a general note.
+:::
+
+::: {.callout-tip}
+**Tip:** Here’s a helpful tip.
+:::
+
+::: {.callout-warning}
+**Warning:** Take caution with this advice.
+:::
+
+
+
+<div style="background-color: aliceblue; padding: 10px; border-left: 5px solid darkgreen;">
+  <strong>Note:</strong> This is a custom callout styled with HTML.
+</div>
+
+
+
+## [It's like...]{style="font-size: 1.2em; color: forestgreen"}
+
+[trying to repair your car by reading the overall repair records of similar models. What you need is diagnostic data about what is happening (or not happening) with your <b>***specific***</b> vehicle.]{style="font-size: 1.2em;"}
+
+
+::: {.callout-tip}
+:::

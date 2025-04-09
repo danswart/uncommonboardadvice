@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://uncommonboardadvice.netlify.app/about.html</loc>
+    <lastmod>2025-04-05T19:36:23-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://uncommonboardadvice.netlify.app/blog.html</loc>
+    <lastmod>2025-04-05T14:47:07-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://uncommonboardadvice.netlify.app/imagine.html</loc>
+    <lastmod>2025-04-05T14:48:22-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://uncommonboardadvice.netlify.app/</loc>
+    <lastmod>2025-04-06T15:06:24-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://uncommonboardadvice.netlify.app/welcome.html</loc>
+    <lastmod>2025-02-15T13:41:23-06:00</lastmod>
+  </url>
+  <url>
+    <loc>https://uncommonboardadvice.netlify.app/posts/2025-02-17-testing-giscus/</loc>
+    <lastmod>2025-02-17T09:24:00-06:00</lastmod>
+  </url>
+  <url>
+    <loc>https://uncommonboardadvice.netlify.app/posts/2025-02-15-another-blog-post/</loc>
+    <lastmod>2025-02-16T10:25:08-06:00</lastmod>
+  </url>
+  <url>
+    <loc>https://uncommonboardadvice.netlify.app/posts/2025-02-15-my-second-blog-postthis-one-will-really-be-a-good-one/</loc>
+    <lastmod>2025-02-16T10:22:37-06:00</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+---
+title: "Here's a great post!  :-)"
+description: |
+  A short description of the post.
+author:
+  - name: Dan Swart
+    url: https://example.com/norajones
+date: 2025-02-15
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+```{r}
+library(tidyverse)
+ggplot(iris, aes(Sepal.Length, Sepal.Width)) +
+  geom_point() +
+  geom_smooth(method = lm, se = FALSE) +
+  theme_minimal()
+```
+
+![Title slide with 3 generations of college footballers.](3_generations_of_college_footballers.jpg){style="width:30%; height:auto;"}
+
+
+Here's ANOTHER great post!
