@@ -1,0 +1,159 @@
+---
+title: "Squandering Your Most Precious Resource"
+description: "(estimated time to read:  7 mins)"
+preview: clock-and-hourglass-running-out.jpg
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+date: 2025-04-11
+base_url: https://uncommonboardadvice.netlify.app/
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+
+## What Is the District's 'Most Valuable Resource'?
+
+The overused cliche "our children are our most valuable resource" sounds noble but leads to nothing but trouble.  First, children are NOT resources and they certainly do not 'belong' to school districts.  There was a time when more children meant more hands to work the fields, but those days are long gone.  
+
+Words like these mean trouble for a district because they create a 'blank check' mentality where no amount of time or money is too much to spend in "the best interests of the child" (another cliche).  Sometimes even the public gets this impression from board discussions.
+
+The truth is, ***Time and Money are the only resources a Board actually has control over.***  
+
+With their money, districts try to buy the best talent, wisdom, equipment and facilities they can afford.  After that, the only resource left to them is Time.  There will be more money.  The time spent each year will never come again.  No student, teacher, staff, administrator, superintendent, or board member will ever get that time back.  ***The 'whatever it takes' mentality squanders the one nonrenewable resource available to boards.***
+
+<div class="callout-important">
+
+<strong>Interesting Note:</strong> The politicians have generated a clamor for 'Accountability' and demand extensive disclosure of all financial matters.  How about 'Accountability' for the wasted time imposed on a district that has to deliver an education that is worth something?
+
+The state legislature needs an 'Accountability Rating' that reflects the amount of time their mandates consume that are not for direct instruction.  I'd love to see their faces when that report came out!
+
+</div>
+
+
+This practical principle, used in place of the old cliche, offers a better framework. Let me explore why this shift matters and where it might lead us.
+
+
+### The Hidden Cost of "Whatever It Takes"
+
+The "whatever it takes" approach to education sounds like a virtue but hides a damaging assumption: that the time available to the district is infinite.  This simply isn't true. No one pretends that Money is infinite.  So, why do we pretend time is boundless?  
+
+#### How this can harms us:
+
+- Teachers, staff, administration, superintendents, and Trustees burn out from endless demands
+- Quality suffers as people stretch themselves thin
+- Important work gets the same priority as busywork
+- Real costs remain hidden and unmanaged
+- Quality of life declines for everyone
+
+
+#### Better practice:
+
+Treating time as your most precious resource would transform education in your district. The important questions would become: 
+
+* Will this task, mandate, policy or strategy increase or reduce time spent in direct instruction? 
+* Will it reduce or increase time spent on compliance or strictly administrative matters? 
+* Will the time spent erode time for family and personal pursuits? 
+* What programs will this new effort pull time from?
+
+
+#### Central planning from Austin doesn't help
+
+Over-regulation by the state and federal education bureaucracies produces a difficult compression of time for districts.  Since money is limited, districts cannot hire additional people to deal with new mandates.  The only way districts can stay in compliance is to take more time from existing employees and volunteers.  
+
+
+### Imagine Time-Conscious School Boards
+
+If school boards truly valued time as their scarcest resource, meetings, planning and operations would change dramatically:
+
+- Boards would constantly find ways to do business responsibly with dramatically tighter agendas 
+- Board members would be ultra-sensitive to staff and administrators' time
+- Most super-detailed 'transparency' presentations could be reduced to an executive summary with supporting material available for public or further board review outside of meeting time.  
+- 'Soapbox' speeches would disappear
+- Virtue-signaling  multiple 'activity reports' by board members would cease; a designated person can update the public on recent and future events of common interest.
+- Every proposal would include a time impact analysis, not just a dollar impact assessment
+- "Nice to have" initiatives would face additional scrutiny on their effects on other parts of the system
+- Value-added activities (direct instruction would be protected)
+
+The shift from "Is this a 'good' thing to do?" to "Is this worth the cost in time?" would transform decision-making.
+
+
+### The Classroom Time Protection Act
+
+Classroom time. If we truly valued our people's time, we'd treat the teacher-student interaction like gold. We would:
+
+- Question every pull-out from classroom teaching
+- Fight against testing that doesn't directly improve learning
+- Push back on documentation that doesn't help students learn
+- Create buffers against administrative intrusions by the state
+- Measure the cost of compliance in teacher hours, not just dollars
+- Create grading methods that make rational use of instructor time
+
+
+When a new state mandate arrives, the first question would be: "How many hours will this consume that could have been spent in direct instruction?"
+
+
+### Time Can Be an Employee (and volunteer) Benefit
+
+There seems to be an automatic reaction that increasing teacher and staff financial compensation will solve most of our problems.  Some argue low compensation is the primary reason for teacher shortages.  Even though it is an extrinsic reward it should not be ignored.  However, the history of public school instruction tells a story of high intrinsic motivation in education.  People who want to make a lot of money do not become teachers in K-12 public education (they become college professors or politicians).
+
+In an environment of shrinking money supply (thank you state legislature) we do have control of another way of rewarding employees and volunteers - with time.
+
+In normal times, when salaries keep pace with inflation, having 'three months off' during the year is adequate time for family and recharging the batteries.  When salaries do not keep pace with inflation educators have little choice but to increase their motivation for money.  It is a sane response to a difficult situation.  Time, however, is also valued by educators.  
+
+In a mature industry such as education, it is very difficult to think that things could be any way other than they way its 'always been.'  Still, Boards with sufficient leadership can leverage time to great advantage to their districts.
+
+
+### Strategies for Creating More Time
+
+The best way to create more time is to become more effective.  It is a demonstrated fact that increasing quality will decrease costs (including time).  Notice I didn't say 'efficient.'  You can be 100% efficient at doing the wrong things.  I guess you'd call that doing the wrong things righter?
+
+Becoming more effective is not easy.  It takes time, training, leadership and commitment to understand how to examine and refine the systems of delivery, not the people delivering.
+
+You cannot reap the benefits of being more effective if no time is available to do that work.  
+
+
+### What Boards Could Do Tomorrow
+
+If a board wanted to put a time-conscious approach into action, they could:
+
+1. **Audit time costs**: Ask for an honest accounting of where teacher time goes now
+
+2. **Create a time impact statement**: Require all new initiatives to have time cost estimates (even crude estimates are valuable)
+
+3. **Set time protection priorities**: Identify core activities that deserve time protection, including board meeting time
+
+4. **Push back on unfunded time mandates**: When the state requires new tasks, demand that existing tasks be eliminated or fully funded.
+
+5. **Make time gifts intentional**: Consider "time back" as a deliberate benefit when raises aren't possible
+
+
+### Guarding Time Like Money
+
+Perhaps the most valuable shift would be normalizing the statement: "I don't think this is worth the time drain on direct instruction."  Currently, this sounds almost heretical in education. But in fields where time is explicitly valued, it's a normal part of prioritization.
+
+The hardest but most important step is creating a culture where people can honestly assess whether an activity adds enough value to justify its time cost. This requires:
+
+- Strong board leadership that protects members who say no to some activities
+- Clear priorities that help people make time allocation decisions
+- Leaders who model time-conscious behavior themselves (particularly at board meetings)
+- Metrics that regularly measure how the process is working, not just performance results
+
+
+### Conclusion: The Courage to Value Time
+
+Valuing time as our most precious resource is both practical wisdom and a potentially transformative lens for education. By shifting from "no price too high" to "given student academic needs, is this worth the time cost," schools could refocus on what truly matters: learning.
+
+
+The greatest value boards can provide their educational communities isn't just more money (though that helps too) - it's the recognition that everyone's time is finite and precious.  When we truly act on that as a value, we find that both student achievement and teacher satisfaction improve, not because we're doing less, but because we're doing less of what doesn't matter.
+
+### Reflect
+
+Where does time figure as a resource for your board?   Comment below
+

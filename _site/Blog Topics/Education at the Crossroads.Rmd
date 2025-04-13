@@ -1,0 +1,58 @@
+---
+title: "Education at the Crossroads"
+output: html_document
+date: "2025-04-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+|          | Responsibilities |
+|----------|------------------|
+| **Set District Policy** | • Adopt policies that govern the operation of the school district<br>• Establish the district's vision, mission, and goals |
+| **Hiring and Oversight** | • Hire and evaluate the superintendent, who serves as the chief executive officer<br>• Delegate administrative responsibilities to the superintendent<br>• Approve the hiring of personnel as recommended by the superintendent |
+| **Financial Management** | • Adopt an annual budget<br>• Set the tax rate for the district<br>• Oversee fiscal operations and approve expenditures<br>• Ensure financial accountability through regular monitoring |
+| **Academic Oversight** | • Monitor student academic performance<br>• Approve curriculum that meets state requirements<br>• Ensure compliance with state academic standards<br>• Review district and campus improvement plans |
+| **Regulatory Compliance** | • Ensure the district operates in compliance with federal and state laws<br>• Adhere to requirements of the Texas Education Agency (TEA)<br>• Follow open meetings (Texas Open Meetings Act) and public information laws |
+| **Policy Implementation** | • Review and approve district policies<br>• Ensure policies are properly implemented and followed |
+| **Facilities Management** | • Approve plans for construction, renovation, and maintenance<br>• Make decisions regarding facility use and planning |
+| **Accountability** | • Serve as a body accountable to the community<br>• Respond to citizen input and complaints according to established procedures |
+
+### <span style='color: darkred;'>Education at the Crossroads:  Straight Talk for Very Troubled Times
+
+<br>
+It's hard to admit, but the current system of delivering K-12 education is in serious trouble. Public education today is on the verge of slow collapse.  It's not from lack of passion and energy within school districts.  They are full of sincere, honest folks doing their best, but through no fault of their own find the district struggling just to stay afloat.
+
+Many of today's problems come from clumsy attempts at centralized control by the state.  Continued unfunded mandates will certainly bring our public school systems crashing down (where's that buzzword 'sustainable' when you need it?).  Yet, I see no active movement advocating for ways to permanently end unfunded mandates (it is possible, you know).
+
+Another, maybe deeper problem is that education is a 'mature industry' - meaning it is very, very set in its ways.  In a mature industry it's even difficult for people to conceive of new perspectives.  
+
+Many think they know how to improve education, yet test scores and morale continue to decline.  What education elites today call 'innovation' is no more than rearranging the deck chairs on the Titanic -- **when a course change is the only thing that will save the passengers**.
+
+It is also very hard for people to hear new ideas.  Imagination and leadership is required, but is seldom rewarded in a mature industry.  Doing what everyone else does seems easier, but usually distracts from structural challenges.
+
+Meanwhile, state government keeps adding rules while cutting funds, creating a perfect storm.
+
+
+Here's the thing - when an industry gets stuck like this, solutions don't come from inside the system (sorry, TASB).  They come from people with a view from ***OUTSIDE*** the prevailing system.  From people who think differently because they can see the system clearly.  Who aren't trapped inside the system.
+
+That's why I started this blog. It's an honest view from the outside and it can help you right now if you give some of these ideas a chance.  
+
+<div class="callout-tip">
+<strong>TRY:</strong> At least start with a discussion to explore how an idea might help you and your district.
+</div>
+
+Discuss what's really needed to save your public schools.
+
+<div class="callout-caution">
+<strong>Caution:</strong> If your board is highly politicized these discussion may create additional difficulties for those who introduce them. Strong, responsible leadership on the board is required to have the honest discussions needed in a fruitful process.  Otherwise, improvement may need to wait in those districts.
+</div>
+
+These ideas are not new, but they are new to most members of local school boards.
+
+To protect your valuable time, I try to keep the blogs short (3 - 5 minutes to read). For your convenience each blog post discloses the approximate time to read in the blog post headline. 
+
+If you're tired of watching your education system slowly decline and ready for some outside-the-box thinking, you've found your home.  The discussion here might make you uncomfortable at times - good.  Local school boards must do some important things differently, or watch their beautiful district, that so many have devoted their lives to, disappear.

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Uncommon Board Advice</title>
+    <link>https://uncommonboardadvice.netlify.app/</link>
+    <atom:link href="https://uncommonboardadvice.netlify.app/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>Uncommon Board Advice
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Squandering Your Most Precious Resource</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-04-11-squandering-your-most-precious-resource</link>
+      <description>(estimated time to read:  7 mins)</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-04-11-squandering-your-most-precious-resource</guid>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-04-11-squandering-your-most-precious-resource/clock-and-hourglass-running-out.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Self-Inflicted Wounds: How School Districts Hurt Themselves</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-04-09-self-inflicted-wounds-how-school-districts-hurt-themselves</link>
+      <description>(estimated reading time:  5 mins)</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-04-09-self-inflicted-wounds-how-school-districts-hurt-themselves</guid>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-04-09-self-inflicted-wounds-how-school-districts-hurt-themselves/hitting-thumb-with-hammer.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Testing giscus</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-02-17-testing-giscus</link>
+      <description>A short description of the post.</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-02-17-testing-giscus</guid>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

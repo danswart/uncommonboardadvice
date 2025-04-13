@@ -1,0 +1,119 @@
+---
+title: "<span style='color: #228B22; font-size: 1.7rem;'>***'When you want to help people you tell them the truth. When you want to help yourself, you tell them what they want to hear.'*** </span> <span style='font-size: 1.25rem;'>~ Thomas Sowell</span>"
+image: "img/megaphone_1219x1280.png"
+site: distill::distill_website
+listing: posts
+links:
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/danswart/dansrooftop.git target = "_blank"'
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:danswartcpa@gmail.com"
+base_url: https::/danswart/uncommonboardadvice/netlify.app/
+output:
+  postcards::trestles
+---
+
+
+```{r, echo=FALSE}
+
+flipdownr::flipdown(
+  downto = "2025-06-02 23:59:59",
+  id = "timer1",
+  theme = "youkous",
+  headings = c("Days", "Hours", "Minutes", "Seconds")
+)
+
+```
+ 
+<br>
+
+## *Time Until TX Legislature Puts (at least) One More Nail in the Coffin of Public Schools (Sine die-last day of session)*
+
+
+
+<br>
+
+<div style="background-color: aliceblue; padding: 10px; border-left: 5px solid darkgreen;">
+  <strong>Why This Blog?  </strong> I hope to help school board members who grapple with trying to do more, with less.  Which is to say, all school boards everywhere.
+</div>
+
+<br>
+
+
+<div class="callout-important">
+<strong>One thing's for sure:</strong> You won't hear these ideas anywhere else
+</div>
+
+
+<br>
+
+***Idealism is the belief that everything can be perfect;<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Pragmatism is the belief that we can make things better in the world we actually live in.***
+
+
+### Welcome to Uncommon Board Advice
+
+These posts are for school board members in Texas and beyond. Anyone who cares about education is welcome here. I don't write about specific people, boards, or districts. Instead, I focus on the SYSTEMS we use for K-12 education in Texas - the good, bad, and ugly parts.
+
+Our systems shape our results (often more than the people working in them). Local school boards watch over their district's system. The goal is to build systems where doing the right thing is easy, and doing the wrong thing is hard.
+
+The expectations boards set for their districts determine the system that develops. Are these expectations realistic or just wishful thinking? Are they practical, or are they empty slogans that sound nice?
+
+Education will improve when our expectations are realistic, practical, and recognize how the system itself affects our efforts. Your district's values and methods are valuable - don't let others decide them for you.
+
+### Should boards be discussing such things? Shouldn't they 'stay in their lane'?
+
+"Stay in your lane" is advice given to board members who individually try to micro-manage staff, including the Superintendent. The Superintendent takes direction from the Board as a whole group, not from individual trustees. All other employees take direction from the Superintendent.
+
+This advice doesn't apply to the board's duties as a group. The table below shows the full range of duties that are actually in the board's "lane." Each item reflects the expectations and values held by the Trustees as a group (not necessarily by individual board members). These become the expression of the board's values and expectations - the system of education in your district.  We can discuss any, or all of them.
+
+
+|                           |                         |
+|---------------------------|-------------------------|
+| **Set District Policy**   |                         |
+|                           |**Hiring and Oversight** |
+| **Financial Management**  |                         |
+|                           |**Academic Oversight**   |
+| **Regulatory Compliance** |                         |
+|                           |**Policy Implementation**| 
+| **Facilities Management** |                         |
+|                           |**Accountability**       |
+
+<br>
+
+Honest discussion is the only way for districts to achieve what they want. 
+
+Here you can talk about all of it, and what we can do about it.
+
+
+<div style="text-align: center">
+  ![](img/shouting_and_listening_woman.jpg){style="width:50%; height:auto; fontweight="}
+</div>
+
+\vspace{0.5in}
+
+
+(If you are a flamer, find another blog - you won't last long here.)
+
+
+
+<br>
+
+![SCUC-ISD Team of 8 (2024)](img/scuc_team_of_8_library_2024_annot.jpg){width=100%}
+
+
+\vspace{0.5in}
+
+<br>
+
+<div style="background-color: aliceblue; padding: 10px; border-left: 5px solid darkgreen;">
+
+***Disclaimer:***
+
+***This blog is NOT an official publication of the Schertz-Cibolo-Universal City ISD.  The contents are intended for informational and educational purposes only and does not represent the official position or policies of any school board or school district.  The views and opinions expressed do not reflect the official stance of any educational institution or governing body.  It is for those deeply concerned about the legislative 'machinery' that has become K-12 education in Texas, and the USA in general.   Any data presented is either synthetic to illustrate a point, or is public information found on the Texas Education Association website.  No effort has been made to ensure the accuracy of the information presented by those posting comments and the author assumes no responsibility for any errors or omissions, nor for any consequences arising from the use of this information.  Readers are encouraged to verify any information they may rely on.***
+
+</div>
+
+\vspace{0.5in}
+
+
