@@ -21,6 +21,15 @@ knitr::opts_chunk$set(echo = TRUE)
 | **Facilities Management** | • Approve plans for construction, renovation, and maintenance<br>• Make decisions regarding facility use and planning |
 | **Accountability** | • Serve as a body accountable to the community<br>• Respond to citizen input and complaints according to established procedures |
 
+
+
+Our systems shape our results (often more than the people working in them). Local school boards watch over their district's system. The goal is to build systems where doing the right thing is easy, and doing the wrong thing is hard.
+
+The expectations boards set for their districts determine the system that develops. Are these expectations realistic or just wishful thinking? Are they practical, or are they empty slogans that sound nice?
+
+
+
+
 ### <span style='color: darkred;'>Education at the Crossroads:  Straight Talk for Very Troubled Times
 
 <br>
