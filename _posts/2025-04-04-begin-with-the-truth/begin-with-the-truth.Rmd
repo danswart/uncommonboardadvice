@@ -1,0 +1,101 @@
+---
+title: "Want to Improve?  Begin with the Truth"  
+subtitle: "Buzzwords Are NOT Your Friends"
+description: "(estimated reading time:  5 mins)"
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+date: 2025-04-04
+preview: words-have-power.jpg
+base_url: https://uncommonboardadvice.netlify.app/
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+With a few simple word changes districts would immediately benefit from higher quality, lower costs and less fruitless effort.  The results would also include much happier people; trustees, executive leadership, staff, teachers, parents, partners and students.  
+
+
+## Use Simple, Direct Language (words matter more than you think)
+
+Most board members know this:   Simple words create better decisions and actions.  Word choices determine how well we communicate our principles and practices.  Efforts of school boards everywhere improve when simple, clear language is used.
+
+Yet, too often boards adopt vision statements, mission statements, values statements, slogans and policies written by others who make their living teaching the latest buzzwords, cliches, and slogans.  Some districts actually pay a lot of money to consultants to provide them (and the community) with dozens of obscure buzzwords and unrealistic slogans.
+
+More often than not, those words are subtle lies.  No one really believes that EVERY student will respond to district efforts equally.  No one believes that EVERY student will have equal results.  No one believes that districts can make EVERY student graduate with state-defined characteristics. No one believes that different groups of people will score the same under any conditions.  For heaven's sake, children in the same household can make wildly different scores after attending the same classes, often with the same teachers.
+
+Yet, every day, everywhere, you can see and hear such statements in districts, from top to bottom.  Before education became a pseudo-science no one spoke or wrote about education that way.  They were down-to-earth citizens trying their best to preserve the district as a basic community resource for those who sought to build their own lives in their own ways.  Now, our ***'betters'*** in the legislature (guided by the education industry) are here to **TELL** us how we should prepare our kiddos for life.
+
+Such words are fed to boards by the education industry under the faulty premise that boards can actually control the final results of education.  They cannot.  Maybe there is social pressure to follow such fantasies, but districts suffer the dysfunctions such statements create.
+
+***Board members must find their own words based on their own judgement of what the community wants - with their people, community and resources.***
+
+In other words - ***Think for Yourselves***.  The collective wisdom of boards for decades has produced all the geniuses, wealth, heroes, social fabric and opportunity that made this country the  greatest of all time.  Honestly, I think the education industry would heave a giant sigh of relief if the buzzwords, cliches, psycho-babel, newspeak, woke-isms, bastardized corporate jargon, and weasel words disappeared tomorrow.  They could go back to doing what they set out to do - education.
+
+
+## Words that overstate, obscure, or have no common shared meaning
+
+Using such words is also a subtle form of lying.  Avoid it.
+
+Here's an example:
+
+**Typical of today - using obscure words that overstate the capabilities and promises of the education system:**
+
+*"...to empower every student with the skills, confidence, and passion to thrive in their individual pursuits."*
+
+Feels good to say it, doesn't it?
+
+<br>
+
+**This time with simple, direct words that state fairly the capabilities and intent of the education system and honors the role of the individuals involved:**
+
+*"...to provide the opportunity for each student to develop the abilities, self-assurance, and experience they need to follow the ambition they hold for themselves."*
+
+<br>
+
+Everyone from the Trustee to the student can know what each word means and how it applies to them.  
+
+It clearly lays out the responsibilities of the parties:  we will 'provide the opportunity' for each student, not 'empower' every student (which is impossible).  The student and parents share the responsibility of developing these attributes in a child.  We can only provide an opportunity; we cannot guarantee the result of 'empowerment' (whatever that means). 
+
+
+## A Simple Word Test for Trustees
+
+You may feel out of step with current education elites, but if you're serious about making things better for your school district eliminate the buzzwords, cliches, psycho-babel, newspeak, woke-isms, bastardized corporate jargon, and weasel words from your materials, discussions and reports. 
+
+***If you haven't used the word during normal conversations in your home, or with friends, in the last month DON'T USE IT TO GOVERN YOUR DISTRICT!***
+
+
+<div class="callout-tip">
+<strong>Think about it:</strong>  When's the last time you used the words 'empower', 'circle back', 'deep dive', 'robust' or 'outcomes' around your kitchen table or watching football with your friends?  And how about 'boardsmanship', or 'actionable!'
+</div>
+
+
+
+## A Cautionary Tale
+
+### Beware the Wordsmiths
+
+Whenever consultants (or activists) roll out a new 'solution' they invent new words and phrases hoping you will perceive the ideas as new and important.  Often they have technical meanings in other, more precise or business industries, but no common usage in education.  For example, currently the 'wordsmiths' lump trustees, executive leadership, staff, teachers, parents, partners and students (who are actual  flesh-and-blood human beings) into the sterile corporate jargon of 'stakeholders'.  
+
+It's certainly shorter than reciting each category every time, BUT should you be treating these people as all the same?  If you believe that they are all alike, keep using 'stakeholders'.  If you believe they are distinct groups who require different considerations, ditch the word 'stakeholders.'
+
+
+<div class="callout-tip">
+<strong>Think about it:</strong> The urge to exaggerate reminds me of someone who thinks their name lacks importance, so they add the word "Captain" to it!<br>
+
+Ever notice how it is now no longer sufficient to be a diligent, steady, hard worker?  You now must have ***'passion'***.   The 'passion' is held by the person insisting on using that word!
+</div>
+
+
+## Imagine, if you will...
+
+Board meetings where trustees have confidence that the aims and methods of the district are understandable and achievable.  (e.g., you can know if you are providing an opportunity; you cannot know how the opportunity will unfold for each student)
+
+Where the aims and methods of the board can be _clearly_ communicated to Superintendents.
+
+Where the aims and methods of the district can be _clearly_ communicated to employees by Superintendents.
+
+Where the aims and methods of the district can facilitate work between class levels, campuses, departments.
+
+
+#### Does this make sense?  Feel free to comment below.

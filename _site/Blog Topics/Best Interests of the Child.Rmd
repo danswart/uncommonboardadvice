@@ -1,0 +1,178 @@
+---
+title: "The Best Interests of the Child"
+subtitle: "A Dangerous Cliche"
+description: "(estimated reading time:   4 mins)"
+preview: kill-the-cliche.jpt
+output: html_document
+date: "2025-04-14"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+This is another form of lying; it presumes we know far more than we can know.  It is a troubling phrase that has moved from courts into schools. As usual, it enters the education system via an industry seen as more rigorous.  This simple-sounding phrase creates big problems when school boards use it to guide decisions.
+
+
+
+### Where It Came From and How It's Misused
+
+This legal standard started in family law for custody decisions when children were at risk. In that narrow setting, with specific children and specific problems, courts could at least try to weigh real factors. Even there, many have criticized it for being too subjective.
+
+In education, the phrase is even more problematic when:
+
+1. Applied to thousands of different children at once
+2. Not tied to specific, measurable results
+3. Used by people who don't know particular children well
+4. Used to justify almost any position
+
+
+
+### Boards - This Shuts Down Debate
+
+"In the best interests of the child" works mainly as a debate tactic that:
+
+1. **Stops discussion**:    Who would argue against children's interests?
+2. **Claims moral high ground**:    Makes the speaker sound like a child advocate
+3. **Avoids being specific**:     Doesn't define what those interests actually are
+4. **Can't be tested**:     Creates a standard that can't be proven wrong
+
+The phrase works as a blank check. And, it stops conversation rather than starting it.
+
+
+
+### The Practical Problems
+
+For school boards, the phrase creates several real problems:
+
+
+### 1. No One Can Define It
+
+What exactly is a child's "best interest"? Does it mean:
+
+- Better test scores?
+- Emotional well-being?
+- Future earning potential?
+- Current happiness?
+- Social skills?
+- Matching family values?
+- Preparation for citizenship?
+
+Without saying which interests matter most (and admitting they sometimes conflict), the phrase means nothing as a decision-making tool.
+
+
+
+### 2. It Ignores Necessary Tradeoffs
+
+Educational decisions always involve tradeoffs. Resources are limited, and focusing on one area means less focus on others:
+
+```{r tradeoffs-table, echo=FALSE, warning=FALSE, message=FALSE}
+library(magrittr)   # for pipe operator
+
+tradeoffs <- data.frame(
+  Priority = c("Academic rigor", "Social-emotional support", "Arts education", "Athletics", "Vocational training"),
+  `Potential Benefits` = c(
+    "Content mastery, college readiness",
+    "Emotional skills, relationship skills",
+    "Creative expression, cultural appreciation",
+    "Physical health, teamwork",
+    "Practical skills, career preparation"
+  ),
+  `Potential Costs` = c(
+    "Stress, less time for other activities",
+    "May mean less academic content coverage",
+    "May mean fewer resources for core subjects",
+    "Budget costs, injury risks",
+    "May mean fewer resources for traditional academics"
+  )
+)
+
+knitr::kable(tradeoffs, "html") %>%
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), full_width = TRUE) %>%
+  kableExtra::column_spec(1, bold = TRUE)
+```
+
+The "best interests" phrase implies we can maximize everything at once, which simply isn't true.
+
+
+### 3. It Assumes Everyone Agrees
+
+The phrase assumes we all agree about what's best for children, when in reality:
+
+- Families have different values and priorities
+- Communities have different needs and resources
+- Cultures have different expectations
+- Individual children have different strengths and challenges
+
+What one parent views as essential, another may view as harmful or wasteful.
+
+
+### 4. It Often Hides Adult Interests
+
+Perhaps most troubling, the phrase often covers up adult interests:
+
+- Political agendas beyond education
+- Professional advancement opportunities
+- Avoiding difficult conversations
+- Protection from criticism or lawsuits
+
+When these adult interests hide behind child-centered language, honest debate becomes impossible.
+
+
+### The Money Problem
+
+From a budget perspective, "in the best interests of the child" is particularly dangerous because it:
+
+1. **Rejects budget limits** as less important than children's needs
+2. **Creates moral pressure** to approve spending
+3. **Makes cost-benefit analysis** seem anti-child
+4. **Expands school missions** beyond core educational functions
+
+School boards have a duty to be responsible with public money that can't be abandoned for undefined "interests."
+
+
+### A Better Way: Be Specific and Transparent
+
+Instead of this vague, emotional phrase, boards should demand:
+
+1. **Specific goals**: "This program aims to improve reading by X%"
+2. **Clear measurements**: "Success will be measured by these 3 indicators..."
+3. **Honest tradeoffs**: "Doing this means we'll have to reduce that..."
+4. **Evidence**: "Research suggests this works because..."
+5. **Resource needs**: "This will cost X dollars and Y staff hours..."
+
+
+### Examples of Better Discussions
+
+**Instead of:**
+"We need this new social-emotional curriculum in the best interests of our children."
+
+**Ask for:**
+"Is it the responsibility of the district to provide what children normally get elsewhere?  Is the district the best choice for providing this?  What specific results will this improve?  How will we measure success?  What tradeoffs are involved?  What evidence shows it works?  What resources will it take?"
+
+
+### When Someone Uses This Phrase
+
+When someone says "the best interests of the child," board members should respond with:
+
+1. "Could you tell us which specific interests you're talking about?"
+2. "How would we measure whether we're achieving those interests?"
+3. "What evidence suggests this approach serves those interests better than others?"
+4. "What tradeoffs should we consider in pursuing these particular interests?"
+5. "How do you balance competing interests that might conflict?"
+
+The phrase "in the best interests of the child" is a warning sign of fuzzy thinking or manipulation. While children's needs must remain central to educational decisions, vague appeals to undefined "interests" block rather than help boards govern.
+
+
+## Imagine if you will...
+
+How effective boards could be if they moved from Empty Words to Real Substance
+
+- By insisting on specificity, evidence, measurable results
+- By insisting on discussing honestly the tradeoffs, 
+
+Move toward real decision-making that truly serves students, families, and communities.
+
+
+####  Does this make sense?  Feel free to comment below.
+
+

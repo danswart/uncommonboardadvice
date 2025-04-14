@@ -55,33 +55,43 @@ flipdownr::flipdown(
 
 These posts are for school board members in Texas and beyond. Anyone who cares about education is welcome here. I don't write about specific people, boards, or districts. Instead, I focus on the SYSTEMS we use for K-12 education in Texas - the good, bad, and ugly parts.
 
+IF we improve our systems ***we can do more with less***.
+
 
 ### Should boards be discussing such things? Shouldn't they 'stay in their lane'?
 
 "Stay in your lane" is advice given to board members who individually try to micro-manage staff, including the Superintendent. The Superintendent takes direction from the Board as a whole group, not from individual trustees. All other employees take direction from the Superintendent.
 
-This advice doesn't apply to the board's duties as a group. The table below shows the range of duties that are actually in the board's "lane." Each item reflects the expectations and values held by the Trustees as a group (not necessarily by individual board members). These become the system of education in your district.  We can discuss any, or all of them.
+This advice doesn't apply to the board's duties as a group. The range of duties (shown below) ARE the board's "lane".  Taken together they are the system of education in your district- which the board is clearly responsible for. 
 
 
-
-|                           |                         |
-|---------------------------|-------------------------|
-| **Set District Policy**   |                         |
-|                           |**Hiring and Oversight** |
-| **Financial Management**  |                         |
-|                           |**Academic Oversight**   |
-| **Regulatory Compliance** |                         |
-|                           |**Policy Implementation**| 
-| **Facilities Management** |                         |
-|                           |**Accountability**       |
+|                             |                           |
+|:---------------------------:|:-------------------------:|
+| **Set District Policy**     |                           |
+|                             |**Hiring and Oversight**   |
+| **Financial Management**   |                            |
+|                             |**Academic Oversight**     |
+| **Regulatory Compliance**   |                           |
+|                             |**Policy Implementation**  | 
+| **Facilities Management**   |                           |
+|                             |**Accountability**         |
 
 <br>
 
-Education improves when our expectations are realistic, practical, and clearly stated.  Boards must recognize how the system itself affects our efforts. Your choices of values and methods are valuable - don't let others decide them for you.
+Board choices always alter the ways the system works - sometimes in ways that subtly make the system work worse.   Those choices can cause the system to produce less with more.  The improvements needed to do more with less are what we discuss here.
 
-Honest discussion is the only way for districts to achieve what they want. 
+
+
+<div class="callout-warning">
+<strong>Warning:</strong> Your choices reflect the values and desires of YOUR district - **don't let others decide them for you.**
+</div>
+
+
+Honest discussion is the only way for districts to achieve more with less. 
 
 Here you can talk about all of it, and what we can do about it.
+
+I try to keep the posts brief (5 - 7 mins).  If they're too long, please let me know in the comments.
 
 
 <div style="text-align: center">

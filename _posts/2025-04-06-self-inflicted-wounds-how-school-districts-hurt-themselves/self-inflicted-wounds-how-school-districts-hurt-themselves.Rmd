@@ -1,0 +1,93 @@
+---
+title: "Self-Inflicted Wounds: How School Districts Hurt Themselves"
+subtitle: "Stop Creating Unnecessary Burdens"
+description: "(estimated reading time:  5 mins)"
+preview: hitting-thumb-with-hammer.jpg
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+base_url: https://uncommonboardadvice.netlify.app/
+date: 2025-04-09
+output: 
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+## The Road to Education Hell is Paved with Good Intentions (and PhD candidate theses)
+
+Public education is staggering under the weight of good intentions - from all sides. Legislatures pile on mandates and so-called accountability requirements — all while funding dwindles. Politicians virtue-signal all their great improvements to education on one hand, while guaranteeing failure with the other.  I guess it's good work if you can get it.
+
+Why do legislatures everywhere inflict enormous, destructive pressures on school districts? As usual, the culprit is **good intentions**.  Unfortunately, good intentions don't matter much when their practical effects destroy districts and their students.
+
+Every school board knows that many of these outside pressures are:
+
+- **Unnecessary**     (you cannot get desired results by edict - TEA how's that working for you so far?)
+- **Destructive**     (e.g., pitting demographic groups against each other)
+- **Imposed**         (at this point, 'local control' is a sad joke)
+- **Unfunded**        (this is an immoral practice and must be resisted with vigor)
+
+Even if you can clearly identify these problems for your district, good luck persuading a legislator that their "good intentions" are toxic!  It takes courage and character to admit you had it wrong all along.
+
+So, we leave that battle to 'Advocacy'  (aka, hat-in-hand-groveling)
+
+
+## Looking in the Mirror
+
+Here's an interesting truth: boards and administrators can also increase the burdens on their own districts. These are **self-inflicted wounds**—and can be avoided.  Here are some 'time wasters' you can avoid starting now:
+
+
+### #1 - Don't Waste Time with So-called 'Best Practices'
+
+Boards and Districts are often seduced by so-called "best practices", a business cliche pedaled within the education industry.  It's another corporate buzz word with no clear meaning.  Like all buzz words, they sound good.  Really, who could be against best practice?  
+
+In actual practice though they always add unnecessary burdens on staff and volunteers.  They can even pit Trustees against each other in subtle (and not so subtle) ways.  Ask yourself - are there more flowery words and virtue signalling before or after 'best practices' are put into place?
+
+Reserve best practices for purely clerical or simple compliance mechanics.  Avoid them for substantive policies.  There have been uncounted successful organizations long before 'best practices' became a 'thing.'
+
+
+
+### #2 - Don't Waste Time with 'Good Governance' (or eXceptional governance either)
+
+These are the latest forms of Administrative Theater.  They even made up a new name:  Boardsmanship.  I would spell it differently.  This snake oil is just a "Bureaucratic Pacifier" - activities that calm anxieties without addressing real issues.
+
+In practice it is an aggressive attempt to convince boards that if they just perform a checklist of activities, state them aloud at board meetings, and weave them into their formal practices standardized test scores will improve.  There is absolutely no evidence that shows that one leads to the other.  
+
+If fact, rationally it is far more likely that the causation goes the opposite way.  The data equally supports the theory that relatives and friends of those students who score well in standardized tests are more likely to become board trustees.  Successful students often have involved parents who become trustees.  What is most surprising is not that these claims are virtually unproven, but that no convincing evidence is provided, nor asked for.
+
+
+### #3 - Don't Waste Time Copying Others 
+
+It seems easy to copy others - no need to reinvent the wheel, right?  Consider first that these 'best practices' evolved in a different place, with different people, with different priorities, with different methods, with different communities, and a theory of practice.  So, where did the first people with 'best practices' come to have best practices?  They didn't buy them from someone else.  
+
+Presumably, through self-examination, testing, improving methods and processes, measuring results, and refining THEIR company practice.  They know from earned experience that ***for them, these are best practices.***  But since you have a completely different system of people, methods, processes, etc. it is highly unlikely that those same practices are better than those you can prepare.  
+
+The **REAL** solution is to take the time to develop the best practices for **YOUR** people, in **YOUR** district, with **YOUR** resources.  
+
+Avoid copying others; it is dangerous and wasteful.  There's little evidence it will work well in your district.  Instead, find out for yourself what works in your district; with YOUR people, parents, students, community, buildings and equipment.  Districts will be much better off when they learn that EVERY organization, including their own, is 'one-of-a-kind'.  What you do with it is more in your control than you think.
+
+
+### #4 - Don't Waste Time on so-called 'evidenced-based' practices
+
+School boards are extremely vulnerable to the 'reassurance' that policies or procedures are 'evidenced based', giving the sales pitch a scientific gloss.  I'm not sure why this phrase is so effective in reassuring the education community.  When folks go out of their way to reassure you about something they should be doing as a matter of course, don't fall for it.
+
+Apparently, there are very few folks in the education space with either the time, inclination, training or experience to evaluate such claims.  
+
+I see no challenges to such obviously manipulative phrases except in the technical journals.  When is the last time you had board training that taught evaluation techniques for such claims?  I have now read numerous education research articles, and even several PhD theses.  I see very little scholarship in them.  The social sciences continue to struggle with the near impossibility of establishing cause-and-effect with human populations.  Disappointingly, many claim otherwise.
+
+All who consider adopting such nostrums should first consider what the phrase even means, and why it was invented.  Keep in mind that there was evidence that the earth was flat, that the earth was the center of the solar system, that disease was spread by 'bad air'.  As it turns out, those 'evidence-based' theories turned out to be completely wrong.  
+
+Most claims of 'evidence based' practices strongly imply (and some boldly state) that if you follow their recommendations you will get the benefits promised.  At its best, evidence is strong and rigorous.  At its worst, it is weak and manipulative.  Every racist, eugenicist, Nazi and bigot claims they have 'evidence' to support their prejudices, but it is hardly worth the name evidence.  
+
+These claims may not stand up to scientific scrutiny, but they certainly can make careers and bring consulting work to those who make such claims. 
+
+
+## Imagine, if you will...
+
+your district with no self-inflicted wounds
+
+### Does this make sense?  Feel free to comment below.
+
+
+
