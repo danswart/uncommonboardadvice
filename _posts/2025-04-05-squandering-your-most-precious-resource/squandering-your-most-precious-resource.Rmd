@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 >"Children are the world's most valuable resource, and the best hope for the future" ~ attributed to John F. Kennedy
 
-Soaring rhetoric for a politician, but serious trouble for school boards.  This one can throw malassas into the gears in a hurry.
+Soaring rhetoric for a politician, but serious trouble for school boards.  This one can throw malassas into the gears in a hurry.  Any board can avoid this particular problem.
 
 
 ## What Is the District's 'Most Valuable Resource'?

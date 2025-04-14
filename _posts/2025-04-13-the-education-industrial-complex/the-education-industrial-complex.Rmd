@@ -18,12 +18,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-<div class="callout-tip">
-<strong>I've just got to say it...</strong> when have you ***EVER*** purchased a 'solution' that made your education delivery system less complicated and more effective?
+
+<div class="callout-important">
+<strong>Wow!</strong> Talk about making things more complicated!!  You can avoid a lot of the cost and trouble these 'solutions' bring a district.  The "education-government complex" isn't inevitable - it's a created market that benefits everyone except those it should serve: teachers and students.
 </div>
 
-
-Talk about making things more complicated!!  It's another case of the cure being as bad as the disease.  The "education-government complex" isn't inevitable - it's a created market that benefits everyone except those it should serve: teachers and students.
 
 
 
@@ -41,6 +40,11 @@ This cycle works like this:
 6. Taxpayers foot the bill while companies profit
 
 It's a perfect system - if you're selling the solutions, not if you're teaching or learning.
+
+
+<div class="callout-tip">
+<strong>I've just got to say it...</strong> when have you ***EVER*** purchased a 'solution' that made your education delivery system less complicated and more effective?
+</div>
 
 
 ## The Problem of Manufactured Complexity

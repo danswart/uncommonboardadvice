@@ -13,7 +13,7 @@ output:
     self_contained: false
 ---
 
-Anything that garbles communication from one person to another, or one unit to another, or one department to another, or one teacher to another, or one campus to another, or one community group to another will make your system worse.
+Anything that garbles communication from one person to another, or one unit to another, or one department to another, or one teacher to another, or one campus to another, or one community group to another will make your system worse.  It would be difficult to overstate the problems that come from poor communication.
 
 With a few simple word changes districts would immediately benefit from higher quality, lower costs and less fruitless effort.  The results would also include much happier people; trustees, executive leadership, staff, teachers, parents, partners and students.  
 

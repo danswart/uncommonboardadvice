@@ -18,8 +18,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+>Solve problems...avoid trouble.
 
-This cliche can completely thwart an improvement effort.  It is another form of lying as it presumes we know far more than we can know.  It is a troubling phrase that has moved from courts into schools. As usual, it enters the education system via an industry seen as more rigorous.  This simple-sounding phrase creates big problems when school boards use it to guide decisions.
+The problems with this cliche can sneak up on you.  It is another form of lying as it presumes we know far more than we can know.  It is a troubling phrase that has moved from courts into schools. As usual, it enters the education system via an industry seen as more rigorous.  This simple-sounding phrase creates big problems when school boards use it to guide decisions.
 
 
 ### Where It Came From and How It's Misused
