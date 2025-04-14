@@ -1,5 +1,5 @@
 ---
-title: "The Best Interests of the Child"
+title: "'The Best Interests of the Child'"
 subtitle: "A Dangerous Cliche"
 description: "(estimated time to read:  4 mins)"
 preview: kill-the-cliche.jpg
@@ -18,7 +18,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-This is another form of lying; it presumes we know far more than we can know.  It is a troubling phrase that has moved from courts into schools. As usual, it enters the education system via an industry seen as more rigorous.  This simple-sounding phrase creates big problems when school boards use it to guide decisions.
+
+This cliche is another form of lying; it presumes we know far more than we can know.  It is a troubling phrase that has moved from courts into schools. As usual, it enters the education system via an industry seen as more rigorous.  This simple-sounding phrase creates big problems when school boards use it to guide decisions.
 
 
 ### Where It Came From and How It's Misused

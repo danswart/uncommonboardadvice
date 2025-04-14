@@ -17,7 +17,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
-The greatest value boards can provide their educational communities isn't just more money (though that helps too) - it's the recognition that everyone's time is finite and precious.  When we truly act on that as a value, we find that both student achievement and teacher satisfaction improve, not because we're doing less, but because we're doing less of what doesn't matter.
+>"Children are the world's most valuable resource, and the best hope for the future" ~ attributed to John F. Kennedy
+
+Soaring rhetoric for a politician, but serious trouble for school boards.
 
 
 ## What Is the District's 'Most Valuable Resource'?
@@ -149,6 +151,9 @@ The hardest but most important step is creating a culture where people can hones
 
 
 Valuing time as our most precious resource is both practical wisdom and a potentially transformative lens for education. By shifting from "no price too high" to "given student academic needs, is this worth the time cost," schools could refocus on what truly matters: learning.
+
+The greatest value boards can provide their educational communities isn't just more money (though that helps too) - it's the recognition that everyone's time is finite and precious.  When we truly act on that as a value, we find that both student achievement and teacher satisfaction improve, not because we're doing less, but because we're doing less of what doesn't matter.
+
 
 ## Imagine if...
 
