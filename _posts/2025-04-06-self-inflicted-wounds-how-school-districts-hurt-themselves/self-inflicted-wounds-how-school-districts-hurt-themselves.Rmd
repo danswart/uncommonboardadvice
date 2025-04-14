@@ -13,6 +13,9 @@ output:
     self_contained: false
 ---
 
+>"No man's life, liberty or property are safe while the Legislature is in session." ~ Gideon John Tucker
+
+>Corrolary: God save us from PhD candidates with access to statistical software.
 
 
 ## The Road to Education Hell is Paved with Good Intentions (and PhD candidate theses)
@@ -86,6 +89,7 @@ These claims may not stand up to scientific scrutiny, but they certainly can mak
 ## Imagine, if you will...
 
 your district with no self-inflicted wounds
+
 
 ### Does this make sense?  Feel free to comment below.
 

@@ -17,12 +17,19 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-The first step toward positive change is seeing the system clearly. The "education-government complex" isn't inevitable - it's a created market that benefits everyone except those it should serve: teachers and students.
+
+<div class="callout-tip">
+<strong>I've just got to say it...</strong> when have you ***EVER*** purchased a 'solution' that made your education delivery system less complicated and more effective?
+</div>
+
+
+Talk about making things more complicated!!  It's another case of the cure being as bad as the disease.  The "education-government complex" isn't inevitable - it's a created market that benefits everyone except those it should serve: teachers and students.
+
 
 
 ## The Perfect Money-Making Machine
 
-Here's something important that many people miss: education has become a perfect money-making machine for companies and consultants that sell "solutions" to problems created by government mandates. 
+Here's something important that many people miss: education has become a perfect money-making machine for companies and consultants that sell "solutions" to problems created by government mandates (funded or unfunded, it is all unnecessary work). 
 
 This cycle works like this:
 

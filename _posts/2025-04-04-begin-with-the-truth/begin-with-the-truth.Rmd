@@ -13,6 +13,8 @@ output:
     self_contained: false
 ---
 
+Anything that garbles communication from one person to another, or one unit to another, or one department to another, or one teacher to another, or one campus to another, or one community group to another will make your system worse.
+
 With a few simple word changes districts would immediately benefit from higher quality, lower costs and less fruitless effort.  The results would also include much happier people; trustees, executive leadership, staff, teachers, parents, partners and students.  
 
 
@@ -20,7 +22,7 @@ With a few simple word changes districts would immediately benefit from higher q
 
 Most board members know this:   Simple words create better decisions and actions.  Word choices determine how well we communicate our principles and practices.  Efforts of school boards everywhere improve when simple, clear language is used.
 
-Yet, too often boards adopt vision statements, mission statements, values statements, slogans and policies written by others who make their living teaching the latest buzzwords, cliches, and slogans.  Some districts actually pay a lot of money to consultants to provide them (and the community) with dozens of obscure buzzwords and unrealistic slogans.
+Yet, too often boards adopt vision statements, mission statements, values statements, slogans and policies written by others who make their living teaching the latest buzzwords, cliches, and slogans.  Some districts actually pay a lot of money to consultants to provide them (and the community) with dozens of obscure buzzwords and unrealistic slogans.  They all make communication worse.
 
 More often than not, those words are subtle lies.  No one really believes that EVERY student will respond to district efforts equally.  No one believes that EVERY student will have equal results.  No one believes that districts can make EVERY student graduate with state-defined characteristics. No one believes that different groups of people will score the same under any conditions.  For heaven's sake, children in the same household can make wildly different scores after attending the same classes, often with the same teachers.
 
@@ -89,7 +91,9 @@ Ever notice how it is now no longer sufficient to be a diligent, steady, hard wo
 
 ## Imagine, if you will...
 
-Board meetings where trustees have confidence that the aims and methods of the district are understandable and achievable.  (e.g., you can know if you are providing an opportunity; you cannot know how the opportunity will unfold for each student)
+What message is sent to students when boards adopt slogans, goals, and statements that are idealistic instead of realistic?
+
+Board meetings where trustees have confidence that the aims, principles and methods of the district are understandable and achievable.  (e.g., you can know if you are providing an opportunity; you cannot know how the opportunity will unfold for each student)
 
 Where the aims and methods of the board can be _clearly_ communicated to Superintendents.
 

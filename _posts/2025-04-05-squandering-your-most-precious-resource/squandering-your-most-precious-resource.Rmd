@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 >"Children are the world's most valuable resource, and the best hope for the future" ~ attributed to John F. Kennedy
 
-Soaring rhetoric for a politician, but serious trouble for school boards.
+Soaring rhetoric for a politician, but serious trouble for school boards.  This one can throw malassas into the gears in a hurry.
 
 
 ## What Is the District's 'Most Valuable Resource'?
@@ -154,6 +154,7 @@ Valuing time as our most precious resource is both practical wisdom and a potent
 
 The greatest value boards can provide their educational communities isn't just more money (though that helps too) - it's the recognition that everyone's time is finite and precious.  When we truly act on that as a value, we find that both student achievement and teacher satisfaction improve, not because we're doing less, but because we're doing less of what doesn't matter.
 
+Where does time figure in as a resource for your board?
 
 ## Imagine if...
 
@@ -161,10 +162,11 @@ Boards had the courage to value Time
 
 How would your board meetings change (maybe a lot shorter)?
 
-Would it transform the board's relationship with employees?
+Would it transform the board's relationship with employees and volunteers?
+
 
 
 ### Does this make sense?  Feel free to comment below.
 
-Where does time figure as a resource for your board?   Comment below
+
 
