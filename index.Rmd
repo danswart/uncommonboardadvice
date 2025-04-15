@@ -34,7 +34,7 @@ flipdownr::flipdown(
 <br>
 
 <div style="background-color: aliceblue; padding: 10px; border-left: 5px solid darkgreen;">
-  <strong>Why This Blog?  </strong> I hope to help school board members who grapple with trying to do more, with less.  Which is to say, all school boards everywhere.
+  <strong>Why This Blog?  </strong> I hope to help school boards who grapple with trying to do more, with less.  Which is to say, all school boards everywhere.
 </div>
 
 <br>
@@ -47,27 +47,26 @@ flipdownr::flipdown(
 
 <br>
 
-***Idealism is the belief that everything can be perfect;<br> 
+***Idealism is the belief that everything can be perfect;<br> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Pragmatism is the belief that we can make things better in the world we actually live in.***
 
 
 ### Welcome to Uncommon Board Advice
 
-These posts are for school board members in Texas and beyond. Anyone who cares about education is welcome here. I don't write about specific people, boards, or districts. 
+I admit it:  I have a different way of looking at things.  When a rock is thrown in a pond we all see the splash.  I focus on the ripples, not just the splash.  Though uncommon, that perspective can help solve problems and avoid negative consequences.  It has great leverage when you have to do more with less.
 
-Instead, I focus on those things with high potential to make a district SYSTEM more complicated or less responsive and, therefore, less effective.  That can make it impossible to do more with less.
-
-The aim is to help boards to solve a problem, or avoid negative consequences.
-
-Hopefully, there are some ideas here that can help boards create opportunities for improvement in their districts.
+I don't write about specific people, boards, or districts.  I focus on those things with high potential to make any district more complicated or less responsive and, therefore, less effective.  Some posts may sound provocative - good.  I hope to get a few people excited about this point of view.
 
 <div class="callout-tip">
-<strong>Think about it...</strong> when's the last time you had any board training to teach you how to improve your systems so you can do more with less? 
+<strong>Think about it...</strong> when's the last time you had any board training to teach you how to improve your system so you can do more with less? 
 </div>
 
+These posts are for school board members in Texas and beyond. Anyone who cares about education is welcome here.  By sharing points of view we can help our boards create opportunities for improvement in their districts.
 
+<div class="callout-important">
+<strong>Consider this:</strong>  To improve your district you must improve your SYSTEM of passing on knowledge.
+</div>
 
-IF we improve our LOCAL systems ***we can do more with less***, despite the sabotages of government.
 
 
 ### Should boards be discussing such things? Shouldn't they 'stay in their lane'?
@@ -90,7 +89,7 @@ IF we improve our LOCAL systems ***we can do more with less***, despite the sabo
 
 <br>
 
-Board choices always alter the way the system works - sometimes in ways that subtly make the system work worse.   Those choices can cause the system to produce less with more.  The improvements needed to do more with less are what we discuss here.
+Board choices always alter the way the system works - sometimes in ways that subtly make the system work worse.   Those choices cause the system to produce less while using more resources.  Improvements to do more with less are what we discuss here.
 
 
 
