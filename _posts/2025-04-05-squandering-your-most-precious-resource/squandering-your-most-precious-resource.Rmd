@@ -166,7 +166,10 @@ Would it transform the board's relationship with employees and volunteers?
 
 
 
-### Does this make sense?  Feel free to comment below.
+### Does this make sense?  
+
+### Feel free to comment below.  Use the 'Sign in with GitHub' button first,  There is a brief verification process so we know you're not a robot!
+
 
 
 
