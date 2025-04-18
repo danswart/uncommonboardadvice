@@ -1,17 +1,20 @@
 ---
-title: "The Ethics of Unfunded State Mandates in Education"
-author: "Dan Swart, CPA (ret)"
-date: "April 17, 2025"
+title: "Ethics of Unfunded Mandates"
+description: "(estimated time to read:  4 mins)"
+preview: unfunded-mandates.jpg
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+date: 2025-04-17
+base_url: https://uncommonboardadvice.netlify.app/
 output:
-  html_document:
-    toc: true
-    toc_float: true
-    theme: paper
-    highlight: tango
+  distill::distill_article:
+    self_contained: false
 ---
 
+
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 >"The people cannot delegate to government the power to do anything which would be unlawful for them to do themselves." ~  attributed to John Locke, the 17th-century English philosopher
@@ -71,7 +74,7 @@ The property tax cycle compounds our challenges:
 This isn't accidental — it's a deliberate transfer of accountability that protects state-level politicians while putting local boards in an impossible position.
 
 
-## Compromising Institutional Trust
+## The Effect on Institutional Trust
 
 As board members, we must acknowledge that legislators have broken faith with the public education system in several critical ways:
 
@@ -123,6 +126,7 @@ Fellow board members, here's what we can actually do:
 * **Recognize Reality**: Without structural change to remove the incentives for creating unfunded mandates, they will continue and likely increase.
 
 
+
 ### Your Thoughts?
 
-### Share your perspective in the comments below. Use the 'Sign in with GitHub' button to verify your account (this helps us ensure you're not a bot).
+### Share your perspective in the comments below. Use the 'Sign in with GitHub' button to verify you're not a robot.

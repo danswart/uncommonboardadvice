@@ -1,29 +1,14 @@
 ---
-title: "The Education-Government Complex"
-description: "(estimated time to read:  4 mins)"
-preview: tx-legislature.jpg
-author:
-  - name: Dan Swart
-    url: https://uncommonboardadvice.netlify.app
-date: 2025-04-11
-base_url: https://uncommonboardadvice.netlify.app/
-output:
-  distill::distill_article:
-    self_contained: false
+title: "The Education-Industrial Complex"
+output: 
+  html_document:
+    css: swart-20250327.css
+date: "2025-04-17"
 ---
 
-
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE)
 ```
-
-
-
-<div class="callout-important">
-<strong>Wow!</strong> Talk about making things more complicated!!  You can avoid a lot of the cost and trouble these 'solutions' bring a district.  The "education-government complex" isn't inevitable - it's a created market that benefits everyone except those it should serve: teachers and students.
-</div>
-
-
 
 
 ## The Education Money Machine: Following the Profit Trail
@@ -63,9 +48,9 @@ Let's look at what's happening in our classrooms:
 The state creates unnecessary complexity, and the marketplace responds with costly "solutions." In effect, the state has become an unofficial partner in the software and textbook business.
 
 
-## The Education-Government Complex
+## The Education-Industrial Complex
 
-This pattern mirrors what President Eisenhower called the "military-Government complex" — where government spending creates industries that then lobby for more spending. In our education system, we see:
+This pattern mirrors what President Eisenhower called the "military-industrial complex" — where government spending creates industries that then lobby for more spending. In our education system, we see:
 
 ```{r ed-complex-table, echo=FALSE, warning=FALSE, message=FALSE}
 ed_complex <- data.frame(
@@ -89,7 +74,7 @@ ed_complex <- data.frame(
 )
 
 # display the table
-knitr::kable(ed_complex, caption = "The Education-Government Complex")
+knitr::kable(ed_complex, caption = "The Education-Industrial Complex")
 
 ```
 

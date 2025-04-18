@@ -1,20 +1,16 @@
 ---
-title: "Want to Improve?  Begin with the Truth"  
-subtitle: "Buzzwords Are NOT Your Friends"
-description: "(estimated reading time:  5 mins)"
-author:
-  - name: Dan Swart
-    url: https://uncommonboardadvice.netlify.app
-date: 2025-04-04
-preview: words-have-power.jpg
-base_url: https://uncommonboardadvice.netlify.app/
-output:
-  distill::distill_article:
-    self_contained: false
+title: "Untitled"
+output: 
+  html_document:
+    css: swart-20250327
+date: "2025-04-18"
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
-## Clear Communication: The Foundation for Everything Else
+## Clear Communication: The Foundation
 
 Poor communication breaks our school systems. When messages are garbled between people, departments, campuses, or community groups, our entire educational system suffers - a lot! It would be difficult to overstate this problem.
 
@@ -107,4 +103,4 @@ As board members working together, we have the power to make all out communicati
 ### Your Thoughts?
 
 
-### Share your perspective in the comments below. Use the 'Sign in with GitHub' button so we know you're not a robot.
+### Share your perspective in the comments below. Use the 'Sign in with GitHub' button to verify your account.
