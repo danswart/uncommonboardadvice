@@ -2,7 +2,7 @@
 title: "'The Best Interests of the Child'"
 subtitle: "A Dangerous Cliche"
 description: "(estimated time to read:  4 mins)"
-preview: kill-the-cliche.jpg
+preview: no-cliches.jpg
 author:
   - name: Dan Swart
     url: https://uncommonboardadvice.netlify.app
