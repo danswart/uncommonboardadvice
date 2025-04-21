@@ -12,9 +12,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Mono');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat');
-@import url('https://fonts.googleapis.com/css2?family=Cabin');          /* swart */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');    /* swart */
-@import url('https://fonts.googleapis.com/css2?family=Schoolbell');     /* swart */
+@import url('https://fonts.googleapis.com/css2?family=Cabin');         /* swart */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');   /* swart */
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell');    /* swart */
 
 
 .callout-tip, .callout-caution, .callout-important, .callout-warning {
@@ -24,29 +24,54 @@
   border-style: solid;
   border-width: 4px;
   border-radius: 10px;
-  background-color: #f8f9fa;
+/*  background-color: #f8f9fa;  background colors set below for each callout */
 }
 
 
+
 .callout-tip {
+  display: block;
+  padding: 1em;
+  margin: 1em 0;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
   border-color: royalblue;
   background-color: #e7f5ff;
 }
 
 
 .callout-caution {
+  display: block;
+  padding: 1em;
+  margin: 1em 0;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
   border-color: red;
   background-color: #fff5f5;
 }
 
 
 .callout-important {
+  display: block;
+  padding: 1em;
+  margin: 1em 0;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
   border-color: #ff9800;
   background-color: #fff3e0;
 }
 
 
 .callout-warning {
+  display: block;
+  padding: 1em;
+  margin: 1em 0;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
   border-color: #8A2BE2;
   background-color: #f3e5f5;
 }
@@ -71,7 +96,7 @@ h1 {
 h2 {
   font-family: "Cabin", sans-serif;
   font-size: 24px;
-  color: black;
+  color: darkred;
 }
 
 
@@ -79,14 +104,14 @@ h3 {
   font-family: "Cabin", sans-serif;
   font-size: 22px;
   color: darkred;
-  text-align: center;  /* This centers the text inside the h3 */
+  text-align: left;
 }
 
 
 h4 {
   font-family: "Cabin", sans-serif;
   font-size: 20px;
-  color: black;
+  color: darkred;
 }
 
 

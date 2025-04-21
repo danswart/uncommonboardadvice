@@ -1,4 +1,0 @@
----
-title: "Imagineering"
-listing: imagine
----
