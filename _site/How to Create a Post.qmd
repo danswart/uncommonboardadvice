@@ -1,0 +1,22 @@
+---
+title: "How to Create a Post"
+format: html
+---
+
+Use distill to create post
+
+
+```{r}
+library(distill)
+create_post("Danger! TX HB 4623 Creates Financial Landmine for Texas School Board Trustees")
+
+```
+
+
+Build website
+
+```{r}
+rmarkdown::render_site()
+
+```
+
