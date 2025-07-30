@@ -7,6 +7,9 @@ author:
     url: https://uncommonboardadvice.netlify.app
 date: 2025-04-17
 base_url: https://uncommonboardadvice.netlify.app/
+categories:
+  - Texas Politics
+  - School Governance
 output:
   distill::distill_article:
     self_contained: false

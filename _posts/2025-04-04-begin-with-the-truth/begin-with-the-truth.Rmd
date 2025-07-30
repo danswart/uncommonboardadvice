@@ -8,6 +8,8 @@ author:
 date: 2025-04-04
 preview: words-have-power.jpg
 base_url: https://uncommonboardadvice.netlify.app/
+categories:
+  - School Governance
 output:
   distill::distill_article:
     self_contained: false
