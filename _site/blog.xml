@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Uncommon Board Advice</title>
+    <link>https://uncommonboardadvice.netlify.app/</link>
+    <atom:link href="https://uncommonboardadvice.netlify.app/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>Uncommon Board Advice
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Danger! TX HB 4623 Creates Financial Landmine for Texas School Board Trustees</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-06-19-danger-tx-hb-4623-creates-financial-landmine-for-texas-school-board-trustees</link>
+      <description>A new Texas law removes legal protections for school board trustees. Here's what volunteer board members need to know about their personal liability risks.</description>
+      <category>Education Policy</category>
+      <category>Texas Politics</category>
+      <category>School Governance</category>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-06-19-danger-tx-hb-4623-creates-financial-landmine-for-texas-school-board-trustees</guid>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-06-19-danger-tx-hb-4623-creates-financial-landmine-for-texas-school-board-trustees/fined-in-court.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Selecting a Board President</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-04-20-selecting-a-board-president</link>
+      <description>(estimated time to read:  4 mins)</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-04-20-selecting-a-board-president</guid>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-04-20-selecting-a-board-president/boss-vs-leader.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ethics of Unfunded Mandates</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-04-17-ethics-of-unfunded-mandates</link>
+      <description>(estimated time to read:  4 mins)</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-04-17-ethics-of-unfunded-mandates</guid>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-04-17-ethics-of-unfunded-mandates/unfunded-mandates.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>The Education-Government Complex</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-04-13-the-education-industrial-complex</link>
+      <description>(estimated time to read:  4 mins)</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-04-13-the-education-industrial-complex</guid>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-04-13-the-education-industrial-complex/tx-legislature.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Self-Inflicted Wounds: How School Districts Hurt Themselves</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-04-06-self-inflicted-wounds-how-school-districts-hurt-themselves</link>
+      <description>(estimated reading time:  5 mins)</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-04-06-self-inflicted-wounds-how-school-districts-hurt-themselves</guid>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-04-06-self-inflicted-wounds-how-school-districts-hurt-themselves/hitting-thumb-with-hammer.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>'The Best Interests of the Child'</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-04-07-the-best-interests-of-the-child</link>
+      <description>(estimated time to read:  4 mins)</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-04-07-the-best-interests-of-the-child</guid>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-04-07-the-best-interests-of-the-child/no-cliches.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Don't Squander Your Most Precious Resource</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-04-05-squandering-your-most-precious-resource</link>
+      <description>(estimated time to read:  7 mins)</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-04-05-squandering-your-most-precious-resource</guid>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-04-05-squandering-your-most-precious-resource/clock-and-hourglass-running-out.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Want to Improve?  Begin with the Truth</title>
+      <dc:creator>Dan Swart</dc:creator>
+      <link>https://uncommonboardadvice.netlify.app/posts/2025-04-04-begin-with-the-truth</link>
+      <description>(estimated reading time:  5 mins)</description>
+      <guid>https://uncommonboardadvice.netlify.app/posts/2025-04-04-begin-with-the-truth</guid>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://uncommonboardadvice.netlify.app/posts/2025-04-04-begin-with-the-truth/words-have-power.jpg" medium="image" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

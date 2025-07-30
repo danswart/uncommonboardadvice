@@ -1,7 +1,6 @@
 
 # Bookdown files-if book rendered in cloud uncomment these
 /*.pdf
-_site
 temp.Rmd
 *_files
 figures
