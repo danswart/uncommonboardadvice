@@ -1,0 +1,33 @@
+---
+title: "How to Create a Post"
+format: html
+---
+
+
+Draft the post in the Draft Posts folder
+
+
+When ready for publication Use distill to create a post
+
+
+```{r}
+# library(distill)
+# create_post("Danger! TX HB 4623 Creates Financial Landmine for Texas School Board Trustees")
+
+```
+
+
+Build website
+
+```{r}
+# rmarkdown::render_site()
+
+```
+
+Use the Build Tab in the RStudio IDE to build your website
+
+
+Use GIT tab to update the repository
+
+Check website to confirm updates to website
+

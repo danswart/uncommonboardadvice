@@ -1,0 +1,146 @@
+---
+title: "<span style='color: #228B22; font-size: 1.7rem;'>***'When you want to help people you tell them the truth. When you want to help yourself, you tell them what they want to hear.'*** </span> <span style='font-size: 1.25rem;'>~ Thomas Sowell</span>"
+image: "img/megaphone_1219x1280.png"
+site: distill::distill_website
+listing: posts
+links:
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/danswart/uncommonboardadvice.git target = "_blank"'
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:danswartcpa@gmail.com"
+base_url: https::/danswart/uncommonboardadvice/netlify.app/
+output:
+  postcards::trestles
+---
+
+
+```{r, echo=FALSE}
+
+flipdownr::flipdown(
+  downto = "2025-06-22 23:59:59",
+  id = "timer1",
+  theme = "youkous",
+  headings = c("Days", "Hours", "Minutes", "Seconds")
+)
+
+```
+ 
+<br>
+
+## *Time Since TX Govenor Put (at least) One More Nail in the Coffin of Public Schools (Monday, June 22, 2025-(deadline for Gov Abbott to sign or veto any bills passed to him from the legislature)*
+
+
+
+<br>
+
+<div style="background-color: aliceblue; padding: 10px; border-left: 5px solid darkgreen;">
+  <strong>Why This Blog?  </strong> I hope to help school boards who grapple with trying to do more, with less.  Which is to say, all school boards everywhere.
+</div>
+
+<br>
+
+
+<div class="callout-important">
+<strong>To Read the Articles & Comment:</strong> click on the 'Articles' button at top right above.   No requirement to comment, but 'Comment' boxes are available at the bottom of each article.  <br>
+
+I hope to post a new article once or twice a week.<br>
+
+One thing's for sure, you won't hear these ideas anywhere else!  
+</div>
+
+
+<br>
+
+***Idealism is the belief that everything can be perfect;<br> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Pragmatism is the belief that we can make things better in the world we actually live in.***
+
+<br>
+
+### Welcome to Uncommon Board Advice
+
+I admit it:  I have a different way of looking at things.  When a rock is thrown in a pond we all see the splash.  I watch the ripples carefully, not just the splash.  Though uncommon, it is a perspective that can help you solve problems and avoid negative consequences.  It has great leverage when you have to do more with less.
+
+I don't write about specific people, boards, or districts.  I write about those things with high potential to make any district more complicated or less responsive and, therefore, less effective.  Some posts may sound provocative - good.  I hope to get a few people excited about this particular 'systems' point of view.
+
+<div class="callout-tip">
+<strong>Think about it...</strong> when's the last time you had any board training to teach you how to improve your system so you can do more with less? 
+</div>
+
+These posts are for school board members in Texas and beyond. Anyone who cares about education is welcome here.  By sharing points of view we can help our boards create opportunities for improvement in their districts.
+
+Most of the challenges we face in education are self-inflicted, but not knowingly.  Blaming others (or yourself) is ***NOT*** a good leadership strategy!
+
+<div class="callout-important">
+<strong>Consider this:</strong>  To improve your district you must improve your SYSTEM of passing on knowledge.  <br>
+Most of the big improvements are made by improving the ***interactions between*** people, methods, machines, departments, classrooms, campusus (campi?!), materials, and environments.  New curriculum, new software, new equipment, new people, new materials, new methods can not, by themselves, bring about the needed improvement.
+</div>
+
+
+
+### Should boards be discussing such things? Shouldn't they 'stay in their lane'?
+
+"Stay in your lane" is advice given to board members who individually try to micro-manage staff, including the Superintendent. The Superintendent takes direction from the Board as a whole group, not from individual trustees. All other employees take direction from the Superintendent.  Any other way can be highly disruptive to the system.
+
+"Stay in your lane" doesn't apply to the board's duties as a group. The range of duties (shown below) ARE the board's "lane".  Taken together they are the system of education in your district - which the board is clearly responsible for. 
+
+
+|                             |                           |
+|:---------------------------:|:-------------------------:|
+| **Set District Policy**     |                           |
+|                             |**Hiring and Oversight**   |
+| **Financial Management**   |                            |
+|                             |**Academic Oversight**     |
+| **Regulatory Compliance**   |                           |
+|                             |**Policy Implementation**  | 
+| **Facilities Management**   |                           |
+|                             |**Accountability**         |
+
+<br>
+
+Board choices always alter the way the system works - sometimes in ways that subtly make the system work worse.   Those choices cause the system to produce less while using more resources.  Improvements to do more with less are what we discuss here.
+
+
+
+<div class="callout-warning">
+<strong>Warning:</strong> Your choices should reflect the values of YOUR district - **don't let others make those choices for you.**
+</div>
+
+
+Honest discussion is the only way for districts to achieve more with less. 
+
+Here you can talk about all of it, and what we can do about it.
+
+I try to keep the posts brief (5 - 7 mins).  If they're too long, please let me know in the comments.
+
+
+<div style="text-align: center">
+  ![](img/shouting_and_listening_woman.jpg){style="width:50%; height:auto; fontweight="}
+</div>
+
+\vspace{0.5in}
+
+
+(If you are a flamer, find another blog - you won't last long here.)
+
+
+
+<br>
+
+![SCUC-ISD Team of 8 (2024)](img/scuc_team_of_8_library_2024_annot.jpg){width=100%}
+
+
+\vspace{0.5in}
+
+<br>
+
+<div style="background-color: aliceblue; padding: 10px; border-left: 5px solid darkgreen;">
+
+***Disclaimer:***
+
+***This blog is NOT an official publication of the Schertz-Cibolo-Universal City ISD.  The contents are intended for informational and educational purposes only and does not represent the official position or policies of any school board or school district.  The views and opinions expressed do not reflect the official stance of any educational institution or governing body.  It is for those deeply concerned about the legislative 'machinery' that has become K-12 education in Texas, and the USA in general.   Any data presented is either synthetic to illustrate a point, or is public information found on the Texas Education Association website.  No effort has been made to ensure the accuracy of the information presented by those posting comments and the author assumes no responsibility for any errors or omissions, nor for any consequences arising from the use of this information.  Readers are encouraged to verify any information they may rely on.***
+
+</div>
+
+\vspace{0.5in}
+
+

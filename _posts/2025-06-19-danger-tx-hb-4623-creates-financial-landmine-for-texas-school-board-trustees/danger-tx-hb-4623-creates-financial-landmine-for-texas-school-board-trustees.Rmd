@@ -1,0 +1,194 @@
+---
+title: "Danger! TX HB 4623 Creates Financial Landmine for Texas School Board Trustees"
+description: |
+  A new Texas law removes legal protections for school board trustees. Here's what volunteer board members need to know about their personal liability risks.
+preview: fined-in-court.jpg
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+date: 2025-06-19
+base_url: https://uncommonboardadvice.netlify.app/
+categories:
+  - Education Policy
+  - Texas Politics
+  - School Governance
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE, echo = FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+
+## School Board Trustees Had Better WATCH OUT! `r fontawesome::fa("triangle-exclamation", fill = "red")`
+
+
+### *A new Texas law might change everything for school board trustees - for the worse. Here's what you need to know.*
+
+Texas House Bill 4623, if signed or allowed to take effect by Gov. Abbott, would apply to Trustees beginning September 1, 2025.  It should create a lot of concern among school district trustees across the state. The new law is meant to create protections for those who suffer in the hands of child predators.  
+
+A noble impulse, for sure.  But, it creates new, huge financial risks to trustees in a process that might eliminate Trustees from school boards entirely.  Personally, I don't see why any trustee would take on that kind of **personal financial risk.**   
+
+This new law removes important legal protections that trustees have always needed to be able to serve. For people who volunteer their time to serve on school boards (obviously, without any pay), this change raises serious questions about service to a school district.
+
+
+
+## Opinionated Executive Summary
+
+```{r key_points, echo=FALSE, results='asis'}
+key_points <- c(
+  "HB 4623 eliminates official immunity for school trustees in cases involving sexual misconduct or failure to report abuse",
+  "Trustees face potential personal liability up to $500,000 per victim plus legal costs",
+  "Current district insurance may not adequately protect trustees under this new law",
+  "Trustees should review insurance coverage and consider personal D&O policies",
+  "Some trustees may resign due to highly significant increased personal risk",
+  "In the future, districts must be able to demonstrate due professional care in hiring, supervision, and reporting procedures"
+)
+
+for(i in 1:length(key_points)) {
+  cat(paste0(i, ". ", key_points[i], "\n"))
+}
+```
+
+
+## What Does HB 4623 Actually Do?
+
+The law creates new ways for people to sue public schools and school employees when certain serious misconduct occurs. Specifically, it covers:
+
+- Sexual misconduct involving students
+- Failure to report suspected child abuse or neglect
+
+Here's the key part that affects trustees: The law specifically names **"members of the board of trustees"** as **"professional school employees"** who can be held personally responsible. This means trustees can be sued ***individually*** and held financially liable.
+
+
+## The Big Change: No More Legal Shield
+
+Before this law, school trustees had something called **"official immunity."** Think of it like a legal shield that protected them from personal lawsuits as long as they were acting in their official capacity. HB 4623 removes that shield entirely for the types of cases it covers.
+
+The law also specifically waives **"governmental immunity"** for school districts, meaning districts can now be sued more easily. But here's what makes this particularly dangerous for trustees: they can be named as individual defendants in lawsuits, creating personal liability that didn't exist before.
+
+
+## The Financial Reality
+
+When a lawsuit is filed under this new law, trustees will immediately have several new financial risks:
+
+**Damage Awards**: Courts can award up to **$500,000 per victim**, plus court costs and attorney's fees to winning plaintiffs.
+
+**Legal Defense Costs**: Defending against a lawsuit can cost tens of thousands of dollars, ***even if the trustee ultimately wins the case.***  (Does the term 'lawfare' sound familiar?)
+
+**Joint and Several Liability**: The law creates "joint and several liability," meaning each defendant can potentially be responsible for the entire judgment, not just their portion.
+
+
+## Insurance: The Current Landscape
+
+School districts can carry liability insurance that covers board members for typical governance activities. However, these policies may not fully protect trustees under the new law for several reasons:
+
+**Coverage Gaps**: Traditional policies often exclude intentional acts or criminal behavior. While a trustee might not have committed misconduct personally, they could still face claims about failure to properly hire or supervise.
+
+**Policy Limits**: District insurance might not cover the full potential exposure, especially when multiple claims are involved.
+
+**Defense Coverage**: Some policies only cover defense costs if the insurance company believes coverage applies. If they deny coverage, trustees could be responsible for their own legal bills from day one.
+
+**Separate Legal Representation**: When trustees and districts have conflicting interests in a lawsuit, trustees may need their own separate attorneys, which the district's insurance might not cover.
+
+
+## What About Director and Officer (D&O) Insurance?
+
+Districts can purchase D&O insurance specifically for board members, but trustees should ask hard questions:
+
+- Does the policy cover claims under HB 4623?
+- What are the coverage limits per claim and in total?
+- Does it cover defense costs even if coverage is ultimately denied?
+- Are there exclusions that might apply?
+
+
+## Legal Precedents and Protections
+
+Unfortunately, there aren't many legal precedents that offer comfort to trustees in this situation. The law was specifically written to eliminate the traditional protections that might have helped in the past.
+
+Some potential defenses might include:
+
+- Arguing that a trustee's actions didn't rise to the level of "gross negligence" or "reckless" behavior
+- Demonstrating that proper procedures were followed in hiring and supervision
+- Showing that the trustee relied on professional recommendations from administrators
+
+***However, these defenses would still require expensive legal representation to establish.***
+
+
+## What Should Trustees and Districts Do Now?
+
+### For Districts:
+
+1. **Review Insurance Coverage**: Work with insurance brokers to understand current coverage and identify gaps
+2. **Consider Additional D&O Coverage**: Purchase specific protection for board members if not already in place
+3. **Update Policies**: Strengthen hiring, supervision, and reporting procedures
+4. **Legal Review**: Have attorneys review current practices and recommend improvements
+5. **Training**: Provide comprehensive training on the new law and proper procedures
+
+
+### For Individual Trustees:
+
+1. **Understand Your Exposure**: Ask direct questions about insurance coverage and personal liability
+2. **Document Everything**: Keep detailed records of board discussions and decisions
+3. **Personal Insurance Review**: Check whether homeowner's or umbrella policies might provide any protection
+4. **Consider Personal D&O Insurance**: Some trustees may want to purchase individual policies
+5. **Stay Informed**: Understand district policies and procedures thoroughly
+
+
+## The Resignation Question
+
+The harsh reality is that some trustees may decide the risk isn't worth it. Serving on a school board has always required significant time and effort. Adding substantial personal financial risk to an unpaid volunteer position changes the equation dramatically.
+
+Consider this: A successful lawsuit could result in personal liability of hundreds of thousands of dollars, plus legal defense costs that could easily reach six figures. For many middle-class volunteers, this represents a potentially devastating financial blow.
+
+
+## Will There Be a Trustee Exodus?
+
+It's a real possibility. School boards across Texas are already struggling to find qualified candidates willing to serve. Adding significant personal liability risk could make recruitment even more difficult.
+
+Rural districts might be hit particularly hard. They often have smaller candidate pools and less robust insurance coverage. Urban districts with better resources and insurance might weather the change more easily.
+
+
+## My Assessment of the Risk
+
+The risk to trustees is **real and significant**. While the law targets serious misconduct, it's written broadly enough that trustees could face claims based on hiring and supervision decisions - core responsibilities of any school board.
+
+The most concerning aspect is that trustees must now factor personal financial ruin into their decision to serve. Even winning a lawsuit can be financially devastating due to legal costs.
+
+
+## I Have to Ask...
+
+Where was the Texas Association of School Boards (TASB) during this legislative session?  Like everyone else, all focus was on two very large and important bills covering vouchers and vital school funding.  Great energy was spent to mobilize 'advocacy' efforts to influence those two bills.  This little gem seems to have escaped them.  This is surprising because TASB usually does such a good job at keeping school districts informed about new and old legislation.  
+
+
+## The Bottom Line
+
+- HB 4623 fundamentally changes the risks for school trustees. While the law serves an important purpose in protecting students, it places huge, possibly insurmountable, new burdens on volunteer board members.
+
+- Districts and trustees need to take immediate action to understand and mitigate these risks. This includes reviewing insurance coverage, strengthening procedures, and ensuring proper training.
+
+- Some trustees will likely decide the risk is too great and resign. Others may continue serving but demand better protection from their districts. The long-term impact on school governance in Texas remains to be seen.
+
+
+What's certain is that the days of telling school boards not to micro-manage are over. Being a school trustee now requires understanding not just educational policy, but also significant legal and financial risks. Districts that want to keep quality board members will need to provide effective protection and support.
+
+If the governor vetoes the bill there is nothing to worry about here.  If no veto, the law takes effect **September 1, 2025**. Trustees and districts have little time to prepare, and they shouldn't wait. The stakes are simply too high.
+
+
+
+```{r analysis_note, echo=FALSE, results='asis'}
+cat("***This analysis is for informational purposes only and should not be considered legal advice. Trustees and districts should consult with qualified attorneys and insurance professionals about their specific situations.***")
+```
+
+
+
+
+### If you liked this post or found it valuable - share it with others.
+
+
+### Your Thoughts?
+
+### Share your perspective in the comments below. Use the 'Sign in with GitHub' button to verify you're not a robot.
+

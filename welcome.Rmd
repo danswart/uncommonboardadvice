@@ -1,0 +1,26 @@
+---
+title: "Welcome to Dan's Rooftop"
+description: |
+  Welcome to our new blog, Dan's Rooftop. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Dan Swart 
+    url: https://example.com/norajones
+    affiliation: Hoynesville Hahnyawks
+    affiliation_url: https://example.com/spacelysprokets
+date: 02-15-2025
+categories: "Simplify Purpose"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+Learn more about creating blogs with Distill at:
+https://rstudio.github.io/distill/blog.html
+

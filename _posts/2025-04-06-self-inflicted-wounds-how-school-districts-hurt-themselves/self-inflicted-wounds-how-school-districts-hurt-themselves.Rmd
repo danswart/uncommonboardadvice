@@ -1,0 +1,103 @@
+---
+title: "Self-Inflicted Wounds: How School Districts Hurt Themselves"
+subtitle: "Stop Creating Unnecessary Burdens"
+description: "(estimated reading time:  5 mins)"
+preview: hitting-thumb-with-hammer.jpg
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+base_url: https://uncommonboardadvice.netlify.app/
+date: 2025-04-09
+output: 
+  distill::distill_article:
+    self_contained: false
+---
+
+>"No man's life, liberty or property are safe while the Legislature is in session." ~ Gideon John Tucker
+
+>Corrolary: God save us from PhD candidates with access to statistical software.
+
+
+
+Every board can avoid these problems. They're serious, but within our control.
+
+## Good Intentions: The Hidden Burden on Our School Districts
+
+Our public education system is buckling under the weight of good intentions from all directions. Legislatures pile on mandates and so-called accountability requirements while funding shrinks. Politicians boast about their "improvements" to education with one hand while setting us up for failure with the other.
+
+Why do legislatures everywhere create such destructive pressures on our districts? The culprit is almost always **good intentions**. Unfortunately, good intentions mean little when their real-world effects damage our districts and students.
+
+As board members, we all recognize that many outside pressures are:
+
+- **Unnecessary** (you can't mandate desired outcomes - how's that working for TEA so far?)
+- **Destructive** (like pitting demographic groups against each other)
+- **Imposed** (at this point, "local control" has become an empty phrase)
+- **Unfunded** (a destructive practice we must resist together)
+
+Even when we clearly identify these problems, persuading legislators that their "good intentions" are harmful remains challenging. It takes real courage to admit when your approach is wrong.
+
+So we leave that battle to "Advocacy" (our polite term for hat-in-hand groveling).
+
+
+## The Mirror Test: Our Own Contributions
+
+Here's an uncomfortable truth: we boards and administrators often increase burdens on our own districts. These are **self-inflicted wounds**—and we can avoid them starting today. Here are some time-wasters we can eliminate immediately:
+
+### #1 - Stop Chasing "Best Practices"
+
+Our boards are frequently seduced by so-called "best practices," a business cliché that has infected education. Like all buzzwords, it sounds impressive—who could oppose the "best" of anything?
+
+Yet in actual operation, these imported practices often create unnecessary burdens on staff and volunteers. They can even subtly divide board members. Ask yourself: do we see more flowery language and virtue signaling before or after implementing these "best practices"?
+
+Let's reserve "best practices" for purely clerical or simple compliance matters. For substantive policies, let's be more thoughtful. Countless successful organizations thrived long before "best practices" became a catchphrase.
+
+### #2 - Beware the "Good Governance" Trap
+
+These represent the latest forms of Administrative Theater. They've even coined a new term: "Boardsmanship." This approach functions as a "Bureaucratic Pacifier"—activities that calm anxieties without addressing real issues.
+
+In practice, it attempts to convince boards that if we perform a checklist of activities, state them at meetings, and weave them into formal processes, test scores will magically improve. There's no evidence showing one leads to the other.
+
+In fact, logic suggests the causation might run in the opposite direction. The data equally supports the theory that families of high-scoring students are more likely to become board members. Successful students often have involved parents who join boards. What's surprising isn't that these claims remain unproven, but that convincing evidence is neither provided nor requested.
+
+### #3 - Develop Your Own Solutions, Don't Just Copy Others
+
+It seems easier to copy others—no need to reinvent the wheel, right? But consider that these "best practices" developed elsewhere, with different people, priorities, methods, communities, and theories of practice.
+
+Where did the first people with "best practices" find them? They didn't purchase them from consultants. They developed them through self-examination, testing, measuring results, and refining THEIR specific approaches. They know from experience that ***for them, these are best practices***.
+
+Since we have entirely different systems, people, and contexts, it's unlikely those same practices will work better than ones we develop ourselves.
+
+The **REAL** solution is taking time to develop practices that work for **OUR** people, in **OUR** district, with **OUR** resources.
+
+Let's avoid copying others; it's both risky and wasteful. Instead, let's discover what works in our unique context, with OUR people, parents, students, community, facilities, and equipment. We'll be more successful when we recognize that EVERY organization, including our own, is truly "one-of-a-kind."
+
+### #4 - Question "Evidence-Based" Claims
+
+School boards are particularly vulnerable to reassurances that policies are "evidence-based," giving sales pitches a scientific appearance. This phrase effectively reassures the education community, though we should be skeptical when people emphasize something that should be standard practice.
+
+Few education professionals have the time, inclination, training, or experience to evaluate such claims critically.
+
+I rarely see challenges to these manipulative phrases outside technical journals. When was the last time your board training taught techniques for evaluating research claims? I've read numerous education research articles and doctoral dissertations with disappointingly little scholarship. Social sciences struggle with establishing true cause-and-effect in human populations, yet many claim otherwise.
+
+Before adopting such recommendations, consider what "evidence-based" actually means and why the term exists. Remember that evidence once "proved" the earth was flat, that the earth was the center of the solar system, and that "bad air" spread disease. These "evidence-based" theories turned out completely wrong.
+
+Most "evidence-based" claims imply (or directly state) that following their recommendations will deliver promised benefits. At its best, evidence is robust and rigorous. At its worst, it's weak and manipulative. Every prejudiced viewpoint claims to have "evidence," but that doesn't make it valid.
+
+These claims may not withstand scientific scrutiny, but they certainly advance careers and consulting opportunities.
+
+## Imagine the Possibilities...
+
+Picture your district free from self-inflicted burdens, focused on what actually works for your unique community and circumstances.
+
+As board members working together, we have the power to protect our districts from both external pressures and our own well-intentioned but harmful practices.
+
+
+
+### If you liked this post or found it valuable - share it with others.
+
+
+### Your Thoughts?
+
+### Share your perspective in the comments below. Use the 'Sign in with GitHub' button to verify you're not a robot.
+
+

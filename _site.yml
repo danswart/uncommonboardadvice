@@ -1,0 +1,31 @@
+name: "uncommonboardadvice"
+title: "Uncommon Board Advice"
+description: |
+  Uncommon Board Advice
+base_url: https://uncommonboardadvice.netlify.app/
+output_dir: "_site"
+# pileggi-theme.css
+# theme: rgirls-theme.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Articles"
+      href: blog.html
+output:
+  distill::distill_article:
+    css: swart.css
+    includes:
+      in_header: giscus.html
+collections:
+  posts:
+    categories: true
+    citations: true
+  filter:
+    - category: "Blog"
+  articles:
+    output: distill::distill_article
+    categories: true
+    filter:
+      - category: "Board Practice"
+

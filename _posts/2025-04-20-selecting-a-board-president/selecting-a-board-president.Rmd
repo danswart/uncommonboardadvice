@@ -1,0 +1,210 @@
+---
+title: "Selecting a Board President"
+description: "(estimated time to read:  4 mins)"
+preview: boss-vs-leader.jpg
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+date: 2025-04-20
+base_url: https://uncommonboardadvice.netlify.app/
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Matching Officers and Board Members
+
+### Two Types of School Board Members
+
+Board members usually come in two 'flavors':
+  
+  1. Those who expect the Superintendent to make most of the big decisions on district educational philosophy and policy.  A good match for them is a 'moderator' personality for president.  They believe 'staying in their lane' means a more passive approach to education philosophy and policy.
+  
+  1. Those who prefer a strong, independent board that makes its own decisions about educational philosophy and policy.  A good match for them is a 'process-leader' personality for president.   They envision the board taking a very proactive role in defining the district's education philosophy.  
+  
+A 'strong leader' does ***NOT*** mean someone with a large personality that talks over everyone, imposes their personal opinions on the board, and shows off at public events.  Actually, it's the opposite of that.  
+
+Openly discuss the traits of a president that best serves your board at that particular point in time BEFORE the next office elections.  (A board need not prefer a certain style forever)  If the role of the board president is discussed before hand, the vote by the members will reflect the group preference, which should be respected.
+
+
+## Two Types of School Board Leaders
+
+### The Process-Focused Leader
+
+The process-focused leader knows their main job is to orchestrate **how the group makes decisions**, not which particular decision is reached. 
+
+They know:
+
+- Time is a very serious constraint
+- Meetings should lead to good choices, given the trade-offs involved
+- Groups go through specific steps to make decisions
+- Which step the group is at right now
+- What the group needs to move ahead
+- How to guide talks toward good results
+- Which ideas fit with what the board stands for
+- How to help the group handle tough choices - they understand trade-offs
+
+Process leaders watch the setting of each choice carefully. They know:
+
+- Closed meetings only need to think about board member views
+- Public meetings must include community expectations
+- Some choices have bigger public impact than others
+- The local politics of issues requiring board decision
+
+These leaders know their fellow board members well.  They meet with members to learn their:
+
+- Strong and weak points
+- Views on schools and learning
+- Goals for now and the future
+- Improvements they hope to see during their term
+
+This helps leaders delegate the right tasks to the right people.  They are decisive if the board is stuck.
+
+
+
+### The Participation-Focused Moderator
+
+The Participation-Focused Moderator takes a hands-off approach. They focus on:
+
+- Making sure everyone gets to talk
+- Keeping things "fair" above all else
+- Letting talks go on with little direction
+- Allowing stories and side talks
+- Waiting until time runs out to force a choice
+
+This often leads to:
+
+- long meetings with poor results
+- Choices made when time runs out, not because they are good
+- Inconsistency between board goals, values, and actions
+- More worry about seeming fair than getting good results
+
+
+## Finding a Process-Focused Leader
+
+Look for someone who:
+
+### Meeting Skills
+- Creates clear agendas that show what decisions need to be made
+- Asks questions that help the group move forward
+- Gives brief summaries during meetings to show progress
+- Keeps talks focused on what the board values
+- Politely brings off-topic talks back on track
+
+### Decision-Making Abilities
+- Has helped groups make tough choices before
+- Spots when the group is stuck and offers solutions
+- Knows when to gather more facts and when to decide
+- Helps sort out what matters most when choices compete
+- Always ties issues back to how they affect students
+
+### People Skills
+- Gets along well with most people
+- Thinks about the personalities of each board member relative to upcoming topics
+- Appreciates how different members think about issues
+- Finds what people agree on when views differ
+- Gives tasks to people based on what they do best
+
+### Self-Understanding
+- Keeps personal views separate from their leader role
+- Listens more than they talk in meetings
+- Asks how they could run meetings better
+- Changes their approach based on what's needed
+- Can explain how they handle tough talks
+
+
+
+## Finding a Participation-Focused Moderator
+
+Look for someone who:
+
+### Meeting Skills
+- Knows and follows rules of order 
+- Goes through agenda items in exact order
+- Prefers open discussion over focused discussion
+- Applies rules the same way for everyone
+
+### Decision Approach
+- Relies mainly on voting constraints to make choices
+- Makes sure all views are heard before voting
+- Stays neutral on most topics
+- Relies on meeting rules to get best results
+- Lets talks run their course without re-focusing
+
+### People Skills
+- Treats all board members the same way
+- Keeps relationships formal and impersonal
+- Applies rules the same for friends and others
+- Avoids private talks with board business
+- Values fair process over building bonds
+
+### Self-Expression
+- Often shares their own views after decisions are made
+- Wastes time by repeating what others have said
+- Speaks firmly about rules and process
+- Often mentions their own experiences
+- Tries to keep everyone happy
+
+
+## Screen Your Candidates
+
+### Sample Questions To Identify Leadership Types:
+
+1. "Tell us about a time you helped a group agree on a hard choice."
+2. "How do you get ready to lead a meeting with tough issues?"
+3. "What do you do when a group gets stuck?"
+4. "How do you let everyone speak but still reach a timely decision?"
+5. "How do you handle strong disagreements?"
+6. "What, to you, is situational awareness?"
+7. "How would you run public comment time on controversial topics?"
+8. "How do you make sure everyone gets equal time to speak?"
+9. "Should the president share their own views during talks?"
+10. "What is 'situational awareness' for a board leader?"
+11. "Is the amount of time served on a school board more important than leadership ability?"
+
+
+## Watch How They Work
+
+Notice how potential presidents:
+
+- Run committee meetings
+- Join in work sessions
+- Handle when people disagree
+- Sum up complex ideas
+- Balance listening and directing
+- Deal with surprises
+- Follow-up after meetings
+
+
+I'm sure you can think of other questions and methods to evaluate the type of candidate under consideration.  It's easier (emotionally and time-wise) to use a succession method of choosing a board president, but <strong style="color: red; font-style: italic; font-size: 120%;">far less effective.</strong>
+
+<br>
+
+## The Training Problem
+
+As far as I know, Texas gives very little (or no) training for board members on:
+
+- How groups make good choices
+- Balancing benefits, costs, trade-offs
+- Evaluating evidence
+- Ways to guide and control discussion (hint: reliance on authority of office is a poor method)
+- Moving groups smoothly toward decisions
+- Using each board member's individual skills well
+
+
+This means many boards get turn-takers when they need leaders.
+
+
+### If you liked this post or found it valuable - share it with others.
+
+
+### Your Thoughts?
+
+### Share your perspective in the comments below. Use the 'Sign in with GitHub' button to verify you're not a robot.
+

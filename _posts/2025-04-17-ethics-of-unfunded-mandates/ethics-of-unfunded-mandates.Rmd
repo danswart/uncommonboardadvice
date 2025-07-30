@@ -1,0 +1,135 @@
+---
+title: "Ethics of Unfunded Mandates"
+description: "(estimated time to read:  4 mins)"
+preview: unfunded-mandates.jpg
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+date: 2025-04-17
+base_url: https://uncommonboardadvice.netlify.app/
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+>"The people cannot delegate to government the power to do anything which would be unlawful for them to do themselves." ~  attributed to John Locke, the 17th-century English philosopher
+
+
+## The Mandate Paradox: What We Wouldn't Allow As Individuals
+
+Let me ask you this: Would any of us consider it acceptable to force a family member to mortgage their home, hand over the money, then lose their home to foreclosure? Of course not. We'd recognize this as both unethical and illegal.
+
+Yet as school board members, we collectively permit state legislatures to impose this equivalent burden on our districts. The question isn't why they do it — it's why we continue to accept it.
+
+
+## Beyond "Unfair" - Calling It What It Really Is
+
+"Unfair" doesn't adequately describe what's happening. Unfunded mandates don't discriminate — they burden ALL districts equally with the same impossible demands. The problem isn't inequality of treatment; it's the systematic undermining of public education through legislative actions.
+
+When our state legislature mandates programs without funding them, they create a fundamentally untenable situation — and many of them understand exactly what they're doing.
+
+
+## The Structural Problems We Face Together
+
+As fellow board members, we need to clearly recognize several critical issues:
+
+1. **Responsibility Without Authority**
+
+   Our districts are ordered to implement programs while being denied the resources to properly execute them. We're expected to make bricks without straw.
+
+
+2. **Judge, Jury, and Prosecutor**
+
+   The same legislative bodies that create unfunded mandates evaluate our performance in implementing them. This creates a no-win scenario for public schools.
+
+
+3. **The Public/Private Divide Widens**
+
+   Private schools operate free from these mandates, choosing what they can reasonably afford to offer. Meanwhile, our public districts must stretch limited resources across an ever expanding list of requirements.
+
+
+4. **The Illusion of Local Control**
+
+   Let's be honest—"local control" has become largely symbolic in most states. Our boards spend more time figuring out how to comply with state directives than making meaningful decisions for our communities.
+
+
+## Property Tax Politics: Understanding the Game
+
+The property tax cycle compounds our challenges:
+
+1. Politicians campaign on property tax reduction
+2. They implement these cuts to fulfill campaign promises
+3. Our districts lose critical funding when "hold harmless" guarantees aren't fulfilled
+4. State funding often fails to replace these shortfalls
+5. We're forced to increase local taxes to fund state-mandated programs
+6. Our communities blame us for tax increases that originated at the state level
+7. We still must meet all state requirements regardless of financial constraints
+8. When we inevitably struggle, we're labeled as "failing"
+
+This isn't accidental — it's a deliberate transfer of accountability that protects state-level politicians while putting local boards in an impossible position.
+
+
+## The Effect on Institutional Trust
+
+As board members, we must acknowledge that legislators have broken faith with the public education system in several critical ways:
+
+1. **Political Prioritization Over Educational Needs**: Taxpayer funds meant to strengthen schools are routinely allocated based on political calculations rather than educational priorities.
+
+2. **Strategic Underfunding**: The consequences of denying inflation adjustments year after year are predictable and devastating to district operations. Similarly, unfunded mandates create financial strain that politicians understand but refuse to address.
+
+3. **Rhetorical Dishonesty**: The gap between the stated support for "local control" and the practical elimination of meaningful local authority creates cynicism and distrust.
+
+4. **Concealed Financial Impact**: Tax cuts are presented as unmitigated positives without transparent acknowledgment of their educational consequences.
+
+5. **Accountability Displacement**: When our districts struggle with impossible expectations, responsibility is shifted to local leadership rather than the policies that created these conditions.
+
+6. **Assessment Contradiction**: Evaluating districts on mandated programs they weren't given resources to implement properly violates basic principles of fairness.
+
+
+## The Ethical Obligation
+
+The path forward is clear: funded mandates must become the standard. This reflects the fundamental principle of responsibility that we teach in our schools — if you create an obligation, you must provide the means to fulfill it.
+
+When state power is used to compel action without providing resources, it doesn't just represent poor governance — it betrays the core purpose of public education.
+
+
+## A Leadership Agenda
+
+As board leaders, we can advocate for a more ethical and principled approach:
+
+1. **Align Resources with Responsibility**: Every mandated program must include adequate funding for implementation.
+
+2. **Authentic Local Authority**: Districts should have meaningful flexibility in achieving state educational goals.
+
+3. **Financial Transparency**: All educational mandates must acknowledge their true costs and provide appropriate resources.
+
+4. **Reasonable Accountability**: Districts should be evaluated based on factors within their actual control.
+
+
+## Taking Decisive Action
+
+Fellow board members, here's what we can actually do:
+
+* **Support Constitutional Protection**: Work toward state constitutional amendments prohibiting unfunded mandates (as several states have successfully implemented).
+
+* **Advocate for Mandate Oversight**: Push for the creation of a "State Mandate Office" to document and ensure funding for mandated programs.
+
+* **Speak the Political Truth**: Abandon ineffective, deferential approaches to state legislators. Clear, direct communication about consequences is required.
+
+* **Frame the Issue Accurately**: Help legislators understand that their actions represent a breach of trust with educational institutions and communities.
+
+* **Recognize Reality**: Without structural change to remove the incentives for creating unfunded mandates, they will continue and likely increase.
+
+
+### If you liked this post or found it valuable - share it with others.
+
+
+### Your Thoughts?
+
+### Share your perspective in the comments below. Use the 'Sign in with GitHub' button to verify you're not a robot.
+

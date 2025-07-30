@@ -1,0 +1,113 @@
+---
+title: "Want to Improve?  Begin with the Truth"  
+subtitle: "Buzzwords Are NOT Your Friends"
+description: "(estimated reading time:  5 mins)"
+author:
+  - name: Dan Swart
+    url: https://uncommonboardadvice.netlify.app
+date: 2025-04-04
+preview: words-have-power.jpg
+base_url: https://uncommonboardadvice.netlify.app/
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+## Clear Communication: The Foundation for Everything Else
+
+Poor communication breaks our school systems. When messages are garbled between people, departments, campuses, or community groups, our entire educational system suffers - a lot! It would be difficult to overstate this problem.
+
+By making a few simple word changes, our districts could immediately benefit from higher quality, lower costs, and less wasted effort. These changes would also create happier trustees, administrators, staff, teachers, parents, partners and students.
+
+
+## Simple Words - Better Results (Words Matter More Than We Think)
+
+As fellow board members, we already know this truth: simple words lead to better decisions and actions.  The words we choose determine how effectively we communicate our principles and practices. School boards everywhere perform better when using clear, straightforward language.
+
+Yet too often, we adopt vision statements, mission statements, and policies written by consultants who make their living selling the latest buzzwords and slogans. Some of our districts pay substantial amounts for these professionals to provide us with obscure terms and unrealistic promises. These words almost always make communication worse.
+
+Let's be honest with each other - these fancy statements often contain subtle falsehoods. None of us truly believes that EVERY student will respond identically to district efforts. None of us believes that EVERY student will achieve equal results. None of us believes districts can make EVERY student graduate with specific state-defined characteristics. Even children in the same household, attending the same classes with the same teachers, can achieve wildly different results.
+
+Before education became a pseudo-science, school boards spoke plainly. They were down-to-earth citizens trying to maintain their district as a fundamental community resource for those building their own lives in their own ways. Now, the education industry and legislature believe they should **TELL** us how to prepare our students for life.
+
+The education industry feeds us these words under the flawed assumption that boards can control the final results of education. ***We cannot***. While social pressure to follow such fantasies exists, our districts suffer from the dysfunction these statements create.
+
+**We must find our own words based on our own judgment of what our communities want - with our people, our resources, and our unique situations.**
+
+In simpler terms - **Let's Think for Ourselves**. For decades, the collective wisdom of ordinary board members has produced the geniuses, wealth, heroes, inventions, and opportunities that made this country great.
+
+I believe the education industry would feel tremendous relief if the buzzwords, clichés, psycho-babble, corporate jargon, and weasel words disappeared tomorrow. They could return to their original purpose - education.
+
+
+## Words That Overstate, Obscure, or Lack Common Meaning
+
+Using such words represents a subtle form of misrepresentation. We should avoid this practice.
+
+Here's an example:
+
+**Typical of today - using obscure words that overstate our promises:**
+
+*"...to empower every student with the skills, confidence, and passion to thrive in their individual pursuits."*
+
+Sounds impressive, doesn't it?
+
+
+**Now with simple, direct words that honestly state our capabilities:**
+
+*"...to provide the opportunity for each student to develop their abilities, self-assurance, and experience so they can follow any ambition they hold for themselves."*
+
+Everyone from trustees to students can understand what each word means and how it applies to them.
+
+This clearer version establishes appropriate responsibilities: we will "provide the opportunity" for each student, not "empower" every student (which we cannot guarantee). Students and parents share responsibility for developing these attributes. We can only provide opportunities; we cannot promise specific results or "empowerment" (whatever that actually means).
+
+
+## A Simple Word Test for Board Members
+
+**If you haven't used a word during normal conversations at home or with friends in the last month, DON'T USE IT TO GOVERN YOUR DISTRICT!**
+
+You might feel out of step with current education trends, but if you're serious about improving your school district eliminate the buzzwords, clichés, psycho-babble, and jargon from your materials, discussions, and reports.
+
+
+<div class="callout-tip">
+<strong>Consider this:</strong> When did you last use words like 'empower,' 'circle back,' 'deep dive,' 'robust,' or 'outcomes' around your kitchen table or while watching sports with friends? How about 'boardsmanship' or 'actionable'?
+</div>
+
+
+## A Cautionary Tale
+
+### Watch Out for Word Inventors
+
+When consultants or activists introduce new "solutions," they create new terms hoping we'll see their ideas as innovative and essential. Often these words have technical meanings in business or other fields but no common usage in education. For example, current "word inventors" group trustees, administrators, staff, teachers, parents, partners, and students (actual human beings) into the sterile category of "stakeholders."
+
+While "stakeholders" is shorter than listing each group, should we treat all these people the same way? If you believe they're all alike, keep using "stakeholders." If you recognize they're distinct groups requiring different considerations, stop using that term.
+
+<div class="callout-tip">
+<strong>Consider this:</strong> The urge to exaggerate reminds me of someone who thinks their name lacks importance, so they add "Captain" to it!<br>
+
+Have you noticed how being a diligent, steady worker is no longer enough? Now you must have <strong><em>passion</em></strong>. The passion typically belongs to the person insisting on using that word!
+</div>
+
+
+## Imagine a Better World
+
+What message do we send students when we adopt slogans, goals, and statements that are idealistic rather than realistic?  They soon realize that the adults in charge must be smoking something!
+
+Imagine board meetings where we have confidence that our district's aims, principles, and methods are understandable and achievable. (For example, we can know if we're providing opportunities; we cannot know how each opportunity will unfold for each student in the future.)
+
+Imagine a district where:
+
+- The board's aims and methods can be _clearly_ communicated to Superintendents
+- The district's aims and methods can be _clearly_ communicated to employees
+- Clear communication facilitates the work between grade levels, campuses, and departments
+
+As board members working together, we have the power to make all out communication clearer, simpler, and more effective.  We, and our communities, deserve nothing less.
+
+
+### If you liked this post or found it valuable - share it with others.
+
+
+### Your Thoughts?
+
+### Share your perspective in the comments below. Use the 'Sign in with GitHub' button to verify you're not a robot.
+
