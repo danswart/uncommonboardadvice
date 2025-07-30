@@ -8,6 +8,7 @@ author:
 date: 2025-04-17
 base_url: https://uncommonboardadvice.netlify.app/
 categories:
+  - Education Policy
   - Texas Politics
   - School Governance
 output:

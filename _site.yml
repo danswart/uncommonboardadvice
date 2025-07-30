@@ -28,4 +28,7 @@ collections:
     categories: true
     filter:
       - category: "Board Practice"
+      - category: "Education Policy"
+      - category: "Texas Politics"
+      - category: "School Governance"
 

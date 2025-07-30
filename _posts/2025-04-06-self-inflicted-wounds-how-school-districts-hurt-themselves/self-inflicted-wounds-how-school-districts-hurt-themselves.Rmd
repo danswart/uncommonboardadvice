@@ -10,6 +10,7 @@ base_url: https://uncommonboardadvice.netlify.app/
 date: 2025-04-09
 categories:
   - School Governance
+  - Board Practice
 output: 
   distill::distill_article:
     self_contained: false

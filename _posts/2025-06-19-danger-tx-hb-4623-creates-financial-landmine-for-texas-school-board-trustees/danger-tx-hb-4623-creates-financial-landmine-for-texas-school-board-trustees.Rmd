@@ -9,9 +9,9 @@ author:
 date: 2025-06-19
 base_url: https://uncommonboardadvice.netlify.app/
 categories:
-  - Education Policy
   - Texas Politics
   - School Governance
+  - Board Practice
 output:
   distill::distill_article:
     self_contained: false
