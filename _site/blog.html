@@ -21,8 +21,9 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
+html { -webkit-text-size-adjust: 100%; }
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -33,7 +34,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -2097,7 +2098,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </script>
 
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2156,7 +2157,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <style type="text/css">
-  /* AS OF 2025-04-10 /*
+  /* Current as of: 2025-08-25 */
+
+
+
+  /*-- scss:defaults --*/
+
+  /*  // Sass Variables
+  /*  // https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
 
   /* Edit the CSS properties in this file to create a custom
      Distill theme. Only edit values in the right column
@@ -2167,6 +2176,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /* Optional: embed custom fonts here with `@import`          */
   /* This must remain at the top of this file.                 */
+
+  /* Fonts */
   @import url('https://fonts.googleapis.com/css2?family=Lato');
   @import url('https://fonts.googleapis.com/css2?family=Fira+Mono');
   @import url('https://fonts.googleapis.com/css2?family=Montserrat');
@@ -2175,12 +2186,30 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   @import url('https://fonts.googleapis.com/css2?family=Schoolbell');    /* swart */
 
 
-  hr {
-    border: none;
-    height: 10px;
-    background-color: #333;
-    margin: 2em 0;
+
+  .table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
   }
+
+  .dataTables_wrapper {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  .responsive-plot {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  figure {
+    width: 100%;
+    max-width: 100%;
+  }
+
 
   .callout-tip, .callout-caution, .callout-important, .callout-warning {
     display: block;
@@ -2251,11 +2280,17 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: black;
   }
 
+  /* Alternative selector that's more specific */
+  title {
+      color: #2c3e50;
+      font-weight: bold;
+  }
+
 
   h1 {
     font-family: "Cabin", sans-serif;
     padding: 10px;
-    color: black;
+    color: darkgreen;
   }
 
   h2 {
@@ -2276,7 +2311,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   h4 {
     font-family: "Cabin", sans-serif;
     font-size: 20px;
-    color: darkred;
+    color: blue;
   }
 
 
